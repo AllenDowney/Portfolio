@@ -440,10 +440,22 @@ we adopted a structure where I was the advisor of the 24 students in the class; 
 to discuss the operation of the class, and another faculty member led an independent study project on
 teaching and learning with the student instructors.
 
-In Fall 2013, I worked with Paul Ruvolo to define criteria and processes for student-led classes.  He and
-I advised the next iteration of ModDev in the Fall and WebDev in Spring 2014.
+In Fall 2013, a new version of MobileProto was offered, and in Spring 2014, another version of WebDev.  But we
+started to see more variability in the quality of the experience and the outcomes.
 
-These classes were offered again in Fall 2014 and Spring 2015???
+In Summer 2014, I worked with Paul Ruvolo to define criteria and processes for student-led classes.
+[Guidelines for student-led classes](https://docs.google.com/document/d/1PqmT8kTsmKT2vd0YmjtnG-Ih97QsVIIuZJ4gEo4Vblo/edit?usp=sharing)
+
+In Fall 2014, Paul and I co-advised an offering of MobileProto that tested the new procedures.  The result
+was an improved experience for the students in the class and the student instructors (not to mention
+the advisers).
+
+In Spring 2015, Paul and I co-advised an offering of WebDev.  Under the new procedures, the process went smoothly
+and the class was very successful.
+
+In Fall 2015 and Spring 2016, Paul Ruvolo advised student-led classes, with Mark Somerville and Zhenya Zastavker
+acting as advisers for the student instructors.  The Spring 2016 offering of OlinJS was particularly successful.
+[Web pages for OlinJS, Spring 2016](http://olinjs.github.io)
 
 
 
@@ -459,9 +471,12 @@ more flexibility in future offerings of SoftSys.
 
 I am continuing work on *Think OS*, planning to incorporate
 material from *The Little Book of Semaphores* and to make
-the accompanying thread simulator, Sync, more robust. In
+the accompanying thread simulator, Sync, more robust.
+[Sync web page](http://www.greenteapress.com/thinkpython/swampy/sync.html)
+
+In
 many CS programs, introductory classes are moving from languages like C
-and C++ to higher-level languages like Python. This shift creates a gap
+and C++ to higher-level languages like Python [CACM article](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-us-universities/fulltext). This shift creates a gap
 between the introductory sequence and classes like Operating Systems and
 Networks. Think OS is in a good position to fill this gap.
 
@@ -474,6 +489,7 @@ For the more remote future, I have my eyes open for opportunities to
 collaborate with colleagues to develop computational approaches in other
 areas of engineering, math, and natural and social science.
 
+
 Collaboratory
 =============
 
@@ -481,11 +497,11 @@ In Summer 2011 I visited KTH in Stockholm to meet with instructors who
 had previously participated in workshops at Olin.
 
 In 2013, 2014, and 2015 I participated in the Collaboratory Summer
-Institute and co-led at least one workshop.
+Institute and co-led at least one workshop.  In 2016 I participated but did not lead a workshop.
 [Summer institute](http://www.olin.edu/collaborate/collaboratory/summer-institute/student-engagement)
 
 In Spring 2014 I visited the University of Albany and led a curriculum
-development workshop. [CEAS program at Albany](http://www.albany.edu/ceas/)
+development workshop related to their creation of a new engineering program. [CEAS program at Albany](http://www.albany.edu/ceas/)
 
 In Summer 2014 I visited the University of Texas at El Paso and, along
 with Jessica Townsend, consulted with faculty and students there about
@@ -540,31 +556,28 @@ Committee; in 2016 I was a co-chair.
 Appendices 
 ==========
 
-Survey results
-
-Web traffic
+[Results from survey of classes using books from Green Tea Press](https://github.com/AllenDowney/Portfolio16/blob/master/survey_of_classes.pdf)
 
 Most of my books are available for free download from
-[greenteapress.com](greenteapress.com). The following table shows the
-number of times each PDF file was downloaded in December 2015. Most
+[Green Tea Press](greenteapress.com). The following table shows the
+number of times each PDF file was downloaded in April 2016 (roughly the median
+month in the year so far). Most
 books are also available in HTML, but I am not tracking use of those
 versions.
 
   ----------- -------------------------------------------------------
-     Dec 2015 Title
+   April 2016 Title
     downloads 
-       61,431 *Think Python*
-       28,962 *Think Java*
-       20,012 *How to Think Like a Computer Scientist*
-       18,580 *Think Bayes*
-       16,210 *Think Stats*
-       10,253 *Think DSP*
-       10,080 *Think Stats, 2nd edition*
-        6,923 *The Little Book of Semaphores*
-        5,981 *Think C++*
-        5,186 *Think Complexity*
-        2,522 *Physical Modeling in MATLAB*
-        2,566 *Think OS*
+       98,734 Think Python
+       47,257 Think Stats
+       30,247 Think Bayes
+       26,637 Think Java
+       20,444 Think DSP
+       18,893 The Little Book of Semaphores
+        5,965 Think C++
+        4,904 Think Complexity
+        3,131 Think OS
   ----------- -------------------------------------------------------
 
+[Green Tea Press, monthly web traffic report, April 2016](http://htmlpreview.github.io/?https://raw.githubusercontent.com/AllenDowney/Portfolio16/master/greenteapress_webstats.html?token=ABy37YfaRQV-1wT7zCldILlT1RgcaKv1ks5XdrXAwA%3D%3D)
 
