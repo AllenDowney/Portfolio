@@ -2,32 +2,33 @@ Overview
 ========
 
 The following themes pervade my work in teaching, research, and
-developing the curriculum:
+curriculum development:
 
-### Explore the use of computation throughout to curriculum
+### Explore the use of computation throughout the curriculum
 
 A major goal of my projects is to develop new approaches to math,
 science, and engineering using computation. These projects make the
 material more engaging, shift the balance from theory to practice, and
-bring into the undergraduate curriculum topics previously assumed to be
+bring into the undergraduate curriculum topics usually assumed to be
 accessible only at the graduate level.
 
 ### Integrate Data Science and Bayesian Statistics with engineering
 
-A goal of my work in data science is to make working with data and
+Another goal of my work is to make working with data and
 reasoning about probability a more central part of the engineering
 toolkit. In many engineering schools, students study mathematical
-statistics in a way that does not prepare them to work with real data.
-And almost none of them study Bayesian statistics, a powerful too for
+statistics in a way that does not prepare them to work with real data,
+and almost none of them study Bayesian statistics, a powerful tool for
 making decisions under uncertainty, which is often a critical element of
 engineering practice.
 
 ### Apply the philosophy of Free Software to writing, science, and education
 
 All of my books are available under free licenses that allow readers to
-copy, modify, and redistribute them. These licenses have made possible
+copy, modify, and redistribute them. These licenses made possible
 many translations, adaptations, and derivative works, and led to
 collaborations with co-authors all over the world.
+[Video of my meeting with two of them](https://www.youtube.com/watch?v=CyOnRyH5uxE)
 
 My course material, slides from my presentations, and material from my
 workshops are published on the web. And the supporting code for my
@@ -41,6 +42,7 @@ principles of Open Science, I publish data and code along with research
 results, allowing others to reproduce and modify my analysis. And I
 don’t publish in venues that do not make papers and supporting materials
 freely available.
+[The Open Science Project](http://www.openscience.org/blog/)
 
 ### Create authentic experiences that connect students to external audiences
 
@@ -56,7 +58,8 @@ I also engage students in my writing projects, often using independent
 study projects to develop and test preliminary materials, then inviting
 students to provide feedback on early drafts, and providing
 opportunities for them to contribute material (as in the case studies in
-*Think Complexity*.
+*Think Complexity*).
+
 
 Data Science
 ============
@@ -69,17 +72,22 @@ Courses and books
 -----------------
 
 In Fall 2010, I developed a computational alternative to the existing
-statistics class. [Class web page](https://sites.google.com/site/probstatolin/) While
+statistics class. [Class web page](https://sites.google.com/site/probstatolin/)
+
+While
 teaching this class I wrote the first edition of *Think
 Stats*, which was published by O’Reilly Media in 2011.
 [Think Stats](http://greenteapress.com/thinkstats/)
 
 In Fall 2011, I taught Computational Modeling for the second time and
 continued development of *Think Complexity*.
-[Class web page](https://sites.google.com/site/compmodolin/) I invited the students to
+[Class web page](https://sites.google.com/site/compmodolin/) 
+
+I invited the students to
 work on projects that could appear as case studies in the book. I
 selected four case studies that appeared in the first edition, published
 by O’Reilly in 2012. [Think Complexity](http://greenteapress.com/complexity/)
+[Video](https://www.youtube.com/watch?v=iZuhWo0Nv7o)
 
 In 2013 I won the Undergraduate Computational Engineering and Science
 Award for my work on Computational Modeling and *Think
@@ -101,7 +109,9 @@ from “Computational Prob Stat”, adding machine learning, visualization,
 and more practical aspects of working with data. I recruited 14 external
 collaborators to work with student teams, providing data and motivating
 question. Paul Ruvolo helped me advise student teams and develop
-material. [Class web page](https://sites.google.com/site/datascience14/) Based on this
+material. [Class web page](https://sites.google.com/site/datascience14/)
+
+Based on this
 class, I substantially revised *Think Stats*, publishing
 the second edition in Fall 2014. [Think Stats 2e](http://greenteapress.com/thinkstats2/)
 
@@ -118,6 +128,9 @@ materials. And in each of the resulting classes, I connect students to
 authentic external audiences, including external collaborators in Data
 Science, readers of *Think Complexity*, and readers of my
 blog.
+[Example case study](http://greenteapress.com/complexity/html/thinkcomplexity012.html)
+[Example blog article](http://allendowney.blogspot.com/2015/02/bayesian-analysis-of-match-rates-on.html)
+
 
 Multimedia
 ----------
@@ -145,15 +158,18 @@ workshops related to Data Science.
 
 In Fall 2011, I presented the first version of “There is Only One Test”
 as a webcast for O’Reilly Media. [Webcast](http://www.oreilly.com/pub/e/2016)
+
 This topic has been a recurring theme in my blog and the basis of my
 half-day workshop, “Computational Statistics”, which I presented at
 Pycon 2015 and 2016, and SciPy 2015.
 [Workshop site](https://sites.google.com/site/pyinference/)
+[Video](https://www.youtube.com/watch?v=VR52vSbHBAk)
 
 In 2012 I created “Bayesian Statistics Made Simple”, which I presented
 as a half-day workshop at PyCon 2012, 2013, 2014, 2015, and 2016, and
 also at SciPy 2015 and a few other venues.
 [Workshop site](https://sites.google.com/site/simplebayes/)
+[Video](https://www.youtube.com/watch?v=TpgiFIGXcT4)
 
 In Summer 2016, Sanjoy Mahajan and I taught a focus workshop for the
 Olin Collaboratory, “Bayesian Statistics for Undergrads”, based on our
@@ -171,11 +187,6 @@ worked as a “data creative”, involved in the early stages of a project
 to help identify opportunities, evaluate data and other technical
 issues, and prepare projects for hand-off to a team of volunteer data
 scientists.
-
-My work with DataKind is intermittent, but ongoing. In 2015-16 I was an
-informal liaison between the SCOPE team at Olin working with the Santos
-Foundation on traffic safety solution and the team at DataKind working
-on a related project with Vision Zero.
 [Featured volunteer page](http://www.datakind.org/featured-volunteers/allen-downey)
 
 In June 2015 I flew to Orbitz headquarters in Chicago to deliver a
@@ -207,6 +218,10 @@ Data Science, then published “Religious affiliation, education and
 Internet use” on ArXiv. The abstract was picked up by MIT’s
 *Technology Review*, and attracted substantial media
 attention. [ArXiV paper](https://arxiv.org/abs/1403.5534)
+[NPR](http://www.npr.org/sections/alltechconsidered/2014/04/21/303375159/americas-less-religious-study-puts-some-blame-on-the-internet)
+[Washington Post](https://www.washingtonpost.com/national/religion/is-the-internet-bad-for-religion/2014/04/10/06f9f7a0-c0f3-11e3-9ee7-02c1e10a03f0_story.html)
+[Fox News](http://video.foxnews.com/v/3442766571001/is-surfing-the-web-destroying-your-faith/?#sp=show-clips)
+[A surprisingly good vlog](https://www.youtube.com/watch?v=04jjBv6QR8k)
 
 In 2015, I developed an example of survival analysis for Data Science,
 which lead to “Will Millennials Ever Get Married?”, which I presented at
@@ -226,23 +241,17 @@ views, several more than 10,000 views and a few more than 100,000. Since
 2011, I have posted almost 150 articles and received almost 1.5 million
 page views (NOTE: UPDATE THIS IN SEPTEMBER)
 
-Among the most popular articles are:
+The five most popular articles are:
 
-“Are first babies more likely to be late?”,
-[Blog article](http://allendowney.blogspot.com/2011/02/are-first-babies-more-likely-to-be-late.html)
-150,000 page views.
+[“Are first babies more likely to be late?”](http://allendowney.blogspot.com/2011/02/are-first-babies-more-likely-to-be-late.html)
 
-“All your Bayes are belong to us”,
-[Blog article](http://allendowney.blogspot.com/2011/10/all-your-bayes-are-belong-to-us.html)
+[“All your Bayes are belong to us”](http://allendowney.blogspot.com/2011/10/all-your-bayes-are-belong-to-us.html)
 
-“My favorite Bayes’s Theorem problems”,
-[Blog article](http://allendowney.blogspot.com/2011/10/my-favorite-bayess-theorem-problems.html)
+[“My favorite Bayes’s Theorem problems”](http://allendowney.blogspot.com/2011/10/my-favorite-bayess-theorem-problems.html)
 
-“Bayesian survival analysis for *Game of Thrones*”,
-[Blog article](http://allendowney.blogspot.com/2015/03/bayesian-survival-analysis-for-game-of.html)
+[“Bayesian survival analysis for *Game of Thrones*”](http://allendowney.blogspot.com/2015/03/bayesian-survival-analysis-for-game-of.html) Guest article by Ben Kahle and Erin Pierce.
 
-“The Inspection Paradox is Everywhere”,
-[Blog article](http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html)
+[“The Inspection Paradox is Everywhere”](http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html)
 
 
 Future plans 
@@ -287,7 +296,7 @@ Engineering”, and “Software Systems”, and software-based approaches to
 topics in engineering, primarily “Modeling and Simulation” and “Signals
 and Systems”.
 
-Software Design 
+Software Design
 ---------------
 
 I taught Software Design in Spring and Fall 2011 and wrote the first
@@ -414,11 +423,28 @@ developed new material related to languages, automata, computability and
 Godel’s theorem using Python.
 [Class web page](https://sites.google.com/site/focsolin12/)
 
+I advised the following SCOPE projects: Parietal Systems, 2012-13; Facebook, 2013-14; Apportable 2014-15.
+
 
 Student-led classes
 -------------------
 
-FILL THIS IN
+In Fall 2011 I was the advisor for one of the first student-led classes on mobile application development, MobDev,
+and I led an independent study on teaching and learning for the 4 students leading the class.
+
+In Fall 2012, mobile development was led by an alumnus, Rachel Steadman, but I was the advisor of record
+for 6 students who completed an OSS project.
+
+In Spring 2013, a group of students developed a new course on web application development, called WebDev or OlinJS, and
+we adopted a structure where I was the advisor of the 24 students in the class; I met with the student instructors
+to discuss the operation of the class, and another faculty member led an independent study project on
+teaching and learning with the student instructors.
+
+In Fall 2013, I worked with Paul Ruvolo to define criteria and processes for student-led classes.  He and
+I advised the next iteration of ModDev in the Fall and WebDev in Spring 2014.
+
+These classes were offered again in Fall 2014 and Spring 2015???
+
 
 
 Future plans
