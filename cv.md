@@ -43,9 +43,6 @@ B1, February 2013.
 Publications: 
 -------------
 
-Recent publications available from
-[www.allendowney.com](www.allendowney.com)
-
 ### Books: 
 
 <span>*Think DSP*</span>, O’Reilly Media, August 2016.
