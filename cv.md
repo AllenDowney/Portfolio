@@ -1,7 +1,7 @@
-Allen B. Downey {#allen-b.-downey .unnumbered}
+Allen B. Downey 
 ===============
 
-Education: {#education .unnumbered}
+Education: 
 ----------
 
 Ph.D. Computer Science, University of California at Berkeley, May 1997.
@@ -12,7 +12,7 @@ M.S. Civil Engineering, Massachusetts Institute of Technology, August
 B.S. Civil Engineering, Massachusetts Institute of Technology, June
 1989.
 
-Employment: {#employment .unnumbered}
+Employment: 
 -----------
 
 Franklin W. Olin College of Engineering, Professor of Computer Science,
@@ -30,23 +30,23 @@ June 2000.
 
 San Diego Supercomputer Center, Research Fellow, July 1995 to June 1997.
 
-### Awards: {#awards .unnumbered}
+### Awards: 
 
 <span>*Undergraduate Computational Engineering and Science
 Award*</span>, Krell Institute, U.S. Department of Energy, 2012.
 
-### Patents: {#patents .unnumbered}
+### Patents: 
 
 <span>*Estimating round trip time of a network path*</span>, US 8385225
 B1, February 2013.
 
-Publications: {#publications .unnumbered}
+Publications: 
 -------------
 
 Recent publications available from
 [www.allendowney.com](www.allendowney.com)
 
-### Books: {#books .unnumbered}
+### Books: 
 
 <span>*Think DSP*</span>, O’Reilly Media, August 2016.
 
@@ -103,7 +103,7 @@ Tea Press, February 2009.
 <span>*How to think like a computer scientist: Learning with
 Python*</span>, Green Tea Press, January 2002.
 
-### Peer-reviewed journals: {#peer-reviewed-journals .unnumbered}
+### Peer-reviewed journals: 
 
 “TCP Self-Clocking and Bandwidth Sharing”, <span>*Computer
 Networks*</span>, 51(13), pages 3844-3863, September 2007.
@@ -124,7 +124,7 @@ allocation”, <span>*Cluster Computing*</span>, 1(1), pages 133–145,
 with M. Harchol-Balter, <span>*IEEE Transactions on Computer
 Systems*</span>, 15(3), pages 253–285, August 1997.
 
-### Peer-reviewed conferences: {#peer-reviewed-conferences .unnumbered}
+### Peer-reviewed conferences: 
 
 “Will Millennials Ever Get Married?”, 14th Python in Science Conference
 (SciPy 2015), July 2015.
@@ -184,7 +184,7 @@ ACM SIGMETRICS ’96, May 1996.
 with M. Harchol-Balter, poster, Symposium on Operating Systems
 Principles (SOSP), December 1995.
 
-### Book chapters: {#book-chapters .unnumbered}
+### Book chapters: 
 
 “Exploiting process lifetime distributions for dynamic load balancing”,
 with Mor Harchol-Balter, in <span>*Mobility: Processes, Computers, and
@@ -192,7 +192,7 @@ Agents*</span>, edited by Dejan S. Milojicic, Frederick Douglis, and
 Richard G. Wheeler, Addison Wesley and the ACM Press, April 1999, pages
 214-227.
 
-### Technical reports: {#technical-reports .unnumbered}
+### Technical reports: 
 
 “Religious affiliation, education and Internet use”,
 <http://arxiv.org/abs/1403.5534>, March 2014.
@@ -216,7 +216,7 @@ Report CSD-97-933, January 1997.
 Processes for Load Sharing,’" with M. Harchol-Balter, U.C. Berkeley
 Technical Report CSD-95-888, November 1995.
 
-### Videos/Webcasts: {#videoswebcasts .unnumbered}
+### Videos/Webcasts:
 
 “Learning to Love Bayesian Statistics”, webcast, O’Reilly Media, May
 2016.
@@ -229,7 +229,7 @@ Technical Report CSD-95-888, November 1995.
 
 “There’s Only One Test”, webcast, O’Reilly Media, October 2011.
 
-### Workshops/Tutorials/Panels: {#workshopstutorialspanels .unnumbered}
+### Workshops/Tutorials/Panels: 
 
 “Computational Statistics”, half-day tutorial, PyCon 2016, 2015, SciPy
 2015.
@@ -246,7 +246,7 @@ Colleges, Northeast Division, April 2007.
 “Integrating Empirical Methods into Computer Science”, at ACM SIGCSE
 ’02, February 2002.
 
-### Invited talks: {#invited-talks .unnumbered}
+### Invited talks: 
 
 Bentley University, “Learning to Love Bayesian Statistics”, June 2016.
 
@@ -302,7 +302,7 @@ and Statistics”, January 2012.
 
 Google, Inc. “Authors@Google: Think Stats”, September 2011.
 
-### Courses: {#courses .unnumbered}
+### Courses: 
 
 “Software Design”, Spring and Fall 2011, 2013.
 
