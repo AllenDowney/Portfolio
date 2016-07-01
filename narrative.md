@@ -565,19 +565,17 @@ month in the year so far). Most
 books are also available in HTML, but I am not tracking use of those
 versions.
 
-  ----------- -------------------------------------------------------
-   April 2016 Title
-    downloads 
-       98,734 Think Python
-       47,257 Think Stats
-       30,247 Think Bayes
-       26,637 Think Java
-       20,444 Think DSP
-       18,893 The Little Book of Semaphores
-        5,965 Think C++
-        4,904 Think Complexity
-        3,131 Think OS
-  ----------- -------------------------------------------------------
+| April 2016 downloads | Title        |
+|----------------------|--------------|
+| 98, 734              | Think Python |
+| 47,257               | Think Stats  |
+| 30,247               | Think Bayes  |
+| 26,637               | Think Java  |
+| 20,444               | Think DSP  |
+| 18,893               | The Little Book of Semaphores  |
+|  5,965               | Think C++  |
+|  4,904               | Think Complexity  |
+|  3,131               | Think OS  |
 
 [Green Tea Press, monthly web traffic report, April 2016](http://htmlpreview.github.io/?https://raw.githubusercontent.com/AllenDowney/Portfolio16/master/greenteapress_webstats.html?token=ABy37YfaRQV-1wT7zCldILlT1RgcaKv1ks5XdrXAwA%3D%3D)
 
