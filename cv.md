@@ -37,7 +37,7 @@ Award*</span>, Krell Institute, U.S. Department of Energy, 2012.
 
 ### Patents: 
 
-<span>*Estimating round trip time of a network path*</span>, US 8385225
+[*Estimating round trip time of a network path*](http://www.google.com/patents/US8385225), US 8385225
 B1, February 2013.
 
 Publications: 
