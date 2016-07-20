@@ -209,8 +209,8 @@ TR-2003-001, August 2003.
 “A model for speedup of parallel programs”, U.C. Berkeley Technical
 Report CSD-97-933, January 1997.
 
-\`\`A note on ‘The Limited Performance Benefits of Migrating Active
-Processes for Load Sharing,’" with M. Harchol-Balter, U.C. Berkeley
+“A note on ‘The Limited Performance Benefits of Migrating Active
+Processes for Load Sharing,’” with M. Harchol-Balter, U.C. Berkeley
 Technical Report CSD-95-888, November 1995.
 
 ### Videos/Webcasts:
@@ -245,7 +245,7 @@ Colleges, Northeast Division, April 2007.
 
 ### Invited talks: 
 
-Bentley University, “Learning to Love Bayesian Statistics”, June 2016.
+Bentley University, “Learning to Love Bayesian Statistics”, April 2016.
 
 University of Richmond, “Python as a way of thinking”, April 2016.
 
