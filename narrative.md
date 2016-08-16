@@ -1,4 +1,4 @@
-Table of contents
+### Contents
 
 * [Overview](#overview)
 
