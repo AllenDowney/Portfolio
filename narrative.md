@@ -4,7 +4,13 @@ Table of contents
 
 * [Data Science](#data-science)
 
-* Computation and Engineering
+* [Computation and Engineering](#computation-and-engineering)
+
+* [Collaboratory](#collaboratory)
+
+* [Committee work](#committee-work)
+
+* [Appendices](#appendices)
 
 
 
@@ -316,7 +322,7 @@ come through their pipeline. I will continue to look for opportunities
 to connect this work with students and classes at Olin.
 
 
-Computation and Engineering 
+[Computation and Engineering](#computation-and-engineering) 
 ===========================
 
 Since my last reappointment I have continued to teach and develop
@@ -513,7 +519,7 @@ between the introductory sequence and classes like "Operating Systems" and
 
 For several years we have discussed the possibility of shifting ModSim
 from MATLAB to Octave, Python, or Mathematica. If we make a move like
-this, I will probably revise *Physical Modeling in MATLAB*
+that, I will probably revise *Physical Modeling in MATLAB*
 accordingly.
 
 For the more remote future, I have my eyes open for opportunities to
@@ -521,7 +527,7 @@ collaborate with colleagues to develop computational approaches in other
 areas of engineering, math, and natural and social science.
 
 
-Collaboratory
+[Collaboratory](#collaboratory)
 =============
 
 In Summer 2011 I visited KTH Royal Institute of Technology in Stockholm to meet with instructors who
@@ -557,8 +563,11 @@ In Summer 2016, Sanjoy Mahajan and I created a full-day Focus Workshop
 for the Collaboratory.
 [Workshop description](http://www.olin.edu/collaborate/collaboratory/summer-institute/focus-workshops/#Bayesian_Statistics_for_Undergraduates)
 
+In the future I will continue to seek opportunities to influence engineering
+education at other institutions through this kind of direct engagement.
 
-Service
+
+[Committee work](#committee-work)
 =======
 
 In 2010-11 I was a member of ARB.
@@ -583,8 +592,12 @@ using software and processes developed with Prof Mark Chang.
 In 2014 and 2015 I was a member of the PyCon Tutorial Selection
 Committee; in 2016 I was a co-chair.
 
+In 2016-17, I hope to work with the next incarnation of the ARB to
+design procedures and structures that reflect our curriculum and the
+organization of the faculty.
 
-Appendices 
+
+[Appendices](#appendices) 
 ==========
 
 [Results from survey of classes using books from Green Tea Press](https://github.com/AllenDowney/Portfolio16/blob/master/survey_of_classes.pdf)
