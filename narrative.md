@@ -1,4 +1,14 @@
-Narrative
+Table of contents
+
+* [Overview](#overview)
+
+* [Data Science](#data-science)
+
+* Computation and Engineering
+
+
+
+[Overview](#overview)
 ========
 
 The following themes connect my work in developing students, building and
@@ -70,7 +80,7 @@ education.
 
 
 
-Data Science
+[Data Science](#data-science)
 ============
 
 Since my previous reappointment in 2010, one of my major projects has
