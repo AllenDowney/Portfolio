@@ -1,13 +1,13 @@
-Overview
+Narrative
 ========
 
-The following themes connect my work in teaching, research, and
-curriculum development:
+The following themes connect my work in developing students, building and
+sustaining Olin College, and effecting change in engineering education:
 
 ### Exploring the use of computation throughout the curriculum.
 
-A major goal of my projects is to develop new approaches to math,
-science, and engineering using computation. These projects make the
+A major goal of my projects is to develop new approaches to engineering, math,
+and science using computation. These projects make the
 material more engaging, shift the balance from theory toward practice, and
 bring into the undergraduate curriculum topics often assumed to be
 accessible only at the graduate level.
@@ -18,15 +18,16 @@ Another goal of my work is to make working with data and
 reasoning about probability a more central part of the engineering
 toolkit. In many engineering schools, students study mathematical
 statistics in a way that does not prepare them to work with real data;
-and almost none of them study Bayesian statistics, a powerful tool for
-guiding decisions under uncertainty, which is often a critical element of
-engineering practice.
+and almost none of them study Bayesian statistics.  I want to change
+the way engineers learn about these topics so they use data to answer
+questions and guide decision-making under uncertainty.
+[Slides from my presentation on the data science revolution](https://docs.google.com/presentation/d/1llRoJ238arBxS2MAnTdPbrhEzGRy4WFFBnn-15K4gcg/edit?usp=sharing)
 
 ### Applying the philosophy of Free Software to writing, science, and education.
 
 All of my books are available under free licenses that allow readers to
-copy, modify, and redistribute them. These licenses made possible
-many translations, adaptations, and derivative works, and led to
+copy, modify, and redistribute them. These licenses make possible
+many translations, adaptations, and derivative works, and lead to
 collaborations with co-authors all over the world.
 [Video of a meeting with two of them](https://www.youtube.com/watch?v=CyOnRyH5uxE)
 
@@ -40,7 +41,7 @@ In all of my projects, I “release early and release often”, getting
 constant feedback from readers and inviting collaboration. Following the
 principles of Open Science, I publish data and code along with research
 results, allowing others to reproduce and modify my analysis. And I
-don’t publish in venues that do not make papers and supporting materials
+don't publish in venues that do not make papers and supporting materials
 freely available.
 [The Open Science Project](http://www.openscience.org/blog/)
 
@@ -57,8 +58,16 @@ they get genuine feedback.
 I also engage students in my writing projects, often using independent
 study projects to develop and test preliminary materials, then inviting
 students to provide feedback on early drafts, and providing
-opportunities for them to contribute material (as in the [case studies in
-*Think Complexity*](http://greenteapress.com/complexity/html/thinkcomplexity012.html)).
+opportunities for them to contribute material (as in the
+[case studies in *Think Complexity*](http://greenteapress.com/complexity/html/thinkcomplexity012.html)).
+
+
+All of these projects are intended to have impact within Olin, by preparing
+students and continuing the development of our curriculum, and outside Olin,
+by providing materials used by other colleges, helping professions review or
+retrain, and influencing the content and pedagogy of undergraduate engineering
+education.
+
 
 
 Data Science
@@ -72,21 +81,24 @@ Courses and books
 -----------------
 
 In Fall 2010, I developed a computational alternative to the existing
-statistics class. [Class web page](https://sites.google.com/site/probstatolin/)
+statistics class, with the goal of preparing students to work with
+real data.
+[Class web page](https://sites.google.com/site/probstatolin/)
 
 While
 teaching this class I wrote the first edition of *Think
 Stats*, which was published by O’Reilly Media in 2011.
 [Think Stats](http://greenteapress.com/thinkstats/)
 
-In Fall 2011, I taught Computational Modeling for the second time and
+In Fall 2011, I taught "Computational Modeling" for the second time and
 continued development of *Think Complexity*.
 [Class web page](https://sites.google.com/site/compmodolin/) 
 
 I invited the students to
-work on projects that could appear as case studies in the book. I
-selected four case studies that appeared in the first edition, published
-by O’Reilly in 2012. [Think Complexity](http://greenteapress.com/complexity/)
+work on projects that could appear as case studies in the book, and
+selected four case studies that appeared in the first edition, which
+was published
+by O’Reilly in 2012. [Think Complexity](http://greenteapress.com/complexity/), 
 [Video of my presentation at Google](https://www.youtube.com/watch?v=iZuhWo0Nv7o)
 
 In 2013 I won the Undergraduate Computational Engineering and Science
@@ -129,7 +141,7 @@ materials. And in each of the resulting classes, I connect students to
 authentic external audiences, including external collaborators in Data
 Science, readers of *Think Complexity*, and readers of my
 blog.
-[Example case study](http://greenteapress.com/complexity/html/thinkcomplexity015.html)
+[Example case study](http://greenteapress.com/complexity/html/thinkcomplexity015.html), 
 [Example blog article](http://allendowney.blogspot.com/2015/02/bayesian-analysis-of-match-rates-on.html)
 
 
@@ -215,56 +227,57 @@ In addition to my workshops, I write articles that apply computational
 and Bayesian statistics to data-driven explorations.
 
 These include “Estimating the age of renal tumors”, which started as a
-letter to the Veteran’s administration in support of a patient, and
-became a chapter of *Think Bayes* and an article I
+letter to the U.S. Department of Veterans Affairs in support of a patient;
+later it became a chapter of *Think Bayes* and an article I
 published on ArXiv in 2012. [ArXiV paper](https://arxiv.org/abs/1203.6890)
 
 In 2014 I developed an example of logistic regression as material for
-Data Science, then published “Religious affiliation, education and
+"Data Science", then published “Religious affiliation, education and
 Internet use” on ArXiv. The abstract was picked up by MIT’s
 *Technology Review*, and attracted substantial media
 attention. [ArXiV paper](https://arxiv.org/abs/1403.5534)
-[NPR](http://www.npr.org/sections/alltechconsidered/2014/04/21/303375159/americas-less-religious-study-puts-some-blame-on-the-internet)
-[Washington Post](https://www.washingtonpost.com/national/religion/is-the-internet-bad-for-religion/2014/04/10/06f9f7a0-c0f3-11e3-9ee7-02c1e10a03f0_story.html)
-[Fox News](http://video.foxnews.com/v/3442766571001/is-surfing-the-web-destroying-your-faith/?#sp=show-clips)
+[NPR](http://www.npr.org/sections/alltechconsidered/2014/04/21/303375159/americas-less-religious-study-puts-some-blame-on-the-internet), 
+[Washington Post](https://www.washingtonpost.com/national/religion/is-the-internet-bad-for-religion/2014/04/10/06f9f7a0-c0f3-11e3-9ee7-02c1e10a03f0_story.html), 
+[Fox News](http://video.foxnews.com/v/3442766571001/is-surfing-the-web-destroying-your-faith/?#sp=show-clips), 
 [A surprisingly good vlog](https://www.youtube.com/watch?v=04jjBv6QR8k)
 
-In 2015, I developed an example of survival analysis for Data Science,
+In 2015, I developed an example of survival analysis for "Data Science",
 which lead to “Will Millennials Ever Get Married?”, which I presented at
 SciPy 2015, and which appeared in the proceedings. A student, Lindsey
 Vanderlyn, collaborated on this project as an independent study.
-[Proceeedings home page](http://conference.scipy.org/proceedings/scipy2015/)
+[SciPy proceeedings](http://conference.scipy.org/proceedings/scipy2015/)
 
 In 2011, I started a blog called “Probably Overthinking It”, where I
 publish articles related to data science and Bayesian statistics. Many
 of these articles involve short original statistical explorations, often
 using datasets from government agencies and other resources.
-[Blog](http://allendowney.blogspot.com/)
+[My blog](http://allendowney.blogspot.com/)
 
 Many of these articles attract attention on social media, blog
 aggregators, and other media. Most articles attract more than 1000 page
 views, several more than 10,000 views and a few more than 100,000. Since
-2011, I have posted almost 150 articles and received almost 1.5 million
+2011, I have posted almost 150 articles and received more than 1.3 million
 page views.
 
 The five most popular articles are:
 
-[“Are first babies more likely to be late?”](http://allendowney.blogspot.com/2011/02/are-first-babies-more-likely-to-be-late.html)
+* [“Are first babies more likely to be late?”](http://allendowney.blogspot.com/2011/02/are-first-babies-more-likely-to-be-late.html)
 
-[“All your Bayes are belong to us”](http://allendowney.blogspot.com/2011/10/all-your-bayes-are-belong-to-us.html)
+* [“All your Bayes are belong to us”](http://allendowney.blogspot.com/2011/10/all-your-bayes-are-belong-to-us.html)
 
-[“My favorite Bayes’s Theorem problems”](http://allendowney.blogspot.com/2011/10/my-favorite-bayess-theorem-problems.html)
+* [“My favorite Bayes’s Theorem problems”](http://allendowney.blogspot.com/2011/10/my-favorite-bayess-theorem-problems.html)
 
-[“Bayesian survival analysis for *Game of Thrones*”](http://allendowney.blogspot.com/2015/03/bayesian-survival-analysis-for-game-of.html) Guest article by Ben Kahle and Erin Pierce.
+* [“Bayesian survival analysis for *Game of Thrones*”](http://allendowney.blogspot.com/2015/03/bayesian-survival-analysis-for-game-of.html) Guest article by Ben Kahle and Erin Pierce.
 
-[“The Inspection Paradox is Everywhere”](http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html)
+* [“The Inspection Paradox is Everywhere”](http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html)
 
 
 Future plans 
 ------------
 
 In Fall 2016 I will co-teach the successor of "Computational Modeling",
-called "Complexity Science", with Prof Jason Woodard; and I will revise
+called "Complexity Science", with Prof Jason Woodard.  In preparation,
+I am revising
 *Think Complexity* with the goal of publishing a second
 edition in 2017, possibly including a new selection of student projects
 as case studies.
@@ -307,7 +320,7 @@ Software Design
 
 I taught Software Design in Spring and Fall 2011 and wrote the first
 edition of *Think Python*, published by O’Reilly Media in
-2012. Think Python is my most popular book: it is used in
+2012. *Think Python* is my most popular book: it is used in
 high school and college classes around the world (see Appendix); the
 free PDF version is downloaded from my web page almost 100,000 times per
 month; and we sell hundreds of paper and electronic copies per month.
@@ -316,16 +329,16 @@ month; and we sell hundreds of paper and electronic copies per month.
 In Fall 2013, I taught Software Design again and began work on the
 second edition of *Think Python*, which turned out to be a
 substantial revision. It was published in 2015.
-[Class web page](https://sites.google.com/site/sd13fa/)
+[Class web page](https://sites.google.com/site/sd13fa/), 
 [Think Python 2e](http://greenteapress.com/wp/think-python-2e/)
 
 Software Systems
 ----------------
 
 In Fall 2012, I attempted a major revision of Software Systems, which
-went badly for a number of reasons: one was a badly-implemented set of
-in-class activities, another was the mismatch between the focus of the
-class and the textbook we used.
+went badly for a number of reasons: one was a mismatch between the focus of the
+class and the textbook we used; another was a badly-implemented set of
+in-class activities.
 [Class web page](https://sites.google.com/site/softsys12/)
 
 In Fall 2014, I addressed the first problem by developing a textbook
@@ -366,7 +379,7 @@ Signals and Systems
 In Spring 2014 I started work on *Think DSP*, collaborating
 with two students working on independent study projects.
 
-In Fall 2014 I offered "Computational DSP" for the first time, and the in
+In Fall 2014 I offered "Computational DSP" for the first time, and then in
 Spring 2015 I used this material when I co-taught "Signals and Systems"
 with Profs Siddhartan Govindasamy and Oscar Mur-Miranda. Our first attempt at
 a major revision had some rough edges, but I think the quality of the
@@ -411,7 +424,11 @@ was published by O’Reilly Media in June 2016.
 In February 2016 I was commissioned by the Flatiron School in New York
 to develop a curriculum for their online class on data structures and
 algorithms in Java, using material from "Software Engineering". The first
-group of students tested the course in Summer 2016.
+group of students (including at least two from Olin) tested the course in Summer 2016.
+
+I am making plans to develop this material into a book (working
+title *Think Algorithms*), and I am considering testing it with a group
+of Olin students in the fall.
 
 
 Other classes
@@ -441,7 +458,7 @@ and I led an independent study on teaching and learning for the 4 student instru
 In Fall 2012, ModDev was led by an alumnus, Rachel Steadman; I was the adviser
 for 6 students who completed the class as an OSS project.
 
-In Spring 2013, a group of students developed a new course on web application development, called WebDev or OlinJS, and
+In Spring 2013, a group of students developed a new course on web application development, called WebDev, and
 we adopted a structure where I was the adviser of the 24 students in the class -- I met with the student instructors
 to discuss the operation of the class -- and another faculty member led an independent study project on
 teaching and learning with the student instructors.
@@ -456,7 +473,7 @@ In Fall 2014, Paul and I co-advised an offering of MobileProto that tested the n
 was an improved experience for the students in the class and the student instructors (not to mention
 the advisers).
 
-In Spring 2015, Paul and I co-advised an offering of WebDev.  Under the new procedures, the process went smoothly
+In Spring 2015, Paul and I co-advised an offering of WebDev, also known as OlinJS.  Under the new procedures, the process went smoothly
 and the class was very successful.
 
 In Fall 2015 and Spring 2016, Paul advised student-led classes, with Profs Mark Somerville and Zhenya Zastavker
@@ -467,8 +484,6 @@ acting as advisers for the student instructors.  The Spring 2016 offering of Oli
 
 Future plans
 ------------
-
-*Think Algorithms* [TODO: Update.]
 
 In Spring 2017 I will teach "Software Systems" again, possibly co-teaching
 with Ben Hill. I think we have an opportunity to improve the connection
