@@ -1,5 +1,5 @@
-# Portfolio16
-Portfolio of work, 2010-2016
+# Portfolio
+Allen Downey at Olin College
 
 ### Documents
 
