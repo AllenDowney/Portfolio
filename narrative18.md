@@ -1,22 +1,9 @@
-### Contents
 
 This annual report describes my activities and achievements since
 I submitted my reappointment portfolio in August 2016.
 
-* [Overview](#overview)
 
-* [Data Science](#data-science)
-
-* [Computation and Engineering](#computation-and-engineering)
-
-* [Collaboratory](#collaboratory)
-
-* [Committee work](#committee-work)
-
-
-
-[Overview](#overview)
-========
+## Overview
 
 The following themes connect my work in developing students, building and
 sustaining Olin College, and effecting change in engineering education:
@@ -94,8 +81,7 @@ education.
 
 
 
-[Data Science](#data-science)
-============
+## Data Science
 
 I am continuing work to develop our curriculum in data science.
 
@@ -145,8 +131,7 @@ of religion in the U.S. in the Scientific American blog.
 [2](https://blogs.scientificamerican.com/observations/the-u-s-is-retreating-from-religion/)
 I gave a related talk for PyData Boston in June 2017.  
 
-Plans 
------
+### Plans 
 
 During Summer 2018 I plan to work on the second edition of *Think Bayes*, which I will
 use to offer an expanded (4 credit) version of Computational Bayesian Statistics
@@ -174,11 +159,9 @@ companies interested in these areas.
 
 
 
-[Computation and Engineering](#computation-and-engineering) 
-===========================
+## Computation and Engineering
 
-Computation in STEM
--------------------
+### Computation in STEM
 
 In September 2016, I presented "Python as a Way of Thinking" as my
 developmental leave talk at Olin.  It is about the use of programming
@@ -216,8 +199,7 @@ In March 2018 I appeared at the Jupyter Popup in Boston on a panel related to "J
 
 
 
-Software Systems
-----------------
+### Software Systems
 
 In Spring 2017 I co-taught Software Systems with Ben Hill.  During the first half of the
 semester, we used an EduScrum format, which I had tested during the previous offering of the
@@ -235,8 +217,7 @@ between the introductory sequence and classes like "Operating Systems" and
 will work toward publishing it with O'Reilly Media.
 
 
-Modeling and Simulation
------------------------
+### Modeling and Simulation
 
 During Summer 2017 I worked with Jason Woodard, Alison Wood, and Chris Lee on a substantial
 revision to Modeling and Simulation.  Changes included switching from MATLAB to Python, developing
@@ -251,8 +232,7 @@ I am also working with Craig Scratchley at Simon Fraser University to revise and
 *Physical Modeling in MATLAB*.
 
 
-Complexity Science
-------------------
+### Complexity Science
 
 In Fall 2016 I co-taught Complexity Science with Jason Woodard.  This class was a substantial
 revision of Computational Modeling.  I started work on the second edition of *Think Complexity*
@@ -268,8 +248,7 @@ O'Reilly Media.  The book is in technical review now and should be published by 
 
 
 
-Data Structures and Algorithms
-------------------------------
+### Data Structures and Algorithms
 
 In Fall 2016 I led an independent study on Object Oriented Programming, based on material from
 my Software Engineering class, to help students prepare for a student-led class on Data Structures
@@ -284,8 +263,7 @@ help address a need, perceived by students, for more traditional computer scienc
 curriculum.
 
 
-Plans
------
+### Plans
 
 I have my eyes open for opportunities to collaborate with colleagues to develop computational 
 approaches in other areas of engineering, math, and natural and social science.  
@@ -296,8 +274,7 @@ I have started work on a computational approach to Linear Algebra.
 
 
 
-[Collaboratory](#collaboratory)
-=============
+## Collaboratory
 
 During Summer 2017 I worked with Scott Hersey and the Cambridge School in Weston to help them
 develop a new course that integrates engineering, math, and science.
@@ -311,8 +288,7 @@ a workshop on Computation in STEM.
 I hope to continue to engage with other institutions through the Collaboratory.
 
 
-[Committee work](#committee-work)
-=======
+## Committee work
 
 In 2016-17, I was the chair of the ARB.  I initiated a project to revise our policies
 and processes for student planning, declaration of major, tracking progress toward
