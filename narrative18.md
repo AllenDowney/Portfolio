@@ -137,6 +137,10 @@ During Summer 2018 I plan to work on the second edition of *Think Bayes*, which 
 use to offer an expanded (4 credit) version of Computational Bayesian Statistics
 in Fall 2017.
 
+In August 2018 I will go to the Joint Statistical Meetings in Vancouver, Canada to
+present "Inference in Three Hours, and More Time for the Good Stuff" as part of an
+invited session on Statistical Education.
+
 I will continue to write blog articles as opportunities arise, looking
 for topics that demonstrate the methodology of computational and
 Bayesian statistics, applied to topics in science, engineering, and
