@@ -1,5 +1,8 @@
 ### Contents
 
+This annual report describes my activities and achievements since
+I submitted my reappointment portfolio in August 2016.
+
 * [Overview](#overview)
 
 * [Data Science](#data-science)
@@ -10,10 +13,6 @@
 
 * [Committee work](#committee-work)
 
-* [Appendices](#appendices)
-
-This annual report describes my activities and achievements since
-I submitted my reappointment portfolio in August 2016.
 
 
 [Overview](#overview)
@@ -46,6 +45,14 @@ All of my books are available under free licenses that allow readers to
 copy, modify, and redistribute them. These licenses make possible
 many translations, adaptations, and derivative works, and lead to
 collaborations with co-authors all over the world.
+
+In the last few years, O'Reilly Media has published translations of my books
+in Chinese (traditional and simplified), Japanese, Korean, French,
+Italian, Spanish, Portuguese, German, Polish, Russian, and Croatian.
+
+In addition, volunteers have translated my books into other programming
+languages, including a recently-published version in Perl and 
+versions-in-progress in Julia and Go.
 
 My course material, slides from my presentations, and material from my
 workshops are published on the web. And the supporting code for my
@@ -181,14 +188,27 @@ article published in the Scientific American blog in April 2017
 [1](https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking.
 
 In Fall 2017 I worked with Jason Moore at U.C.Davis to develop a workshop, called
-"Computation in STEM". based on these ideas.
+"Computation in STEM", based on these ideas.
 We presented the workshop for the first time at Davis in January 2018,
 and I will offer a version at Olin's Summer Instutute 2018.
 
 In May 2017, I developed a workshop based on *Think DSP*, which I presented at PyCon 2017 in Oregon.
 I will present a revised version of the workshop at PyCon 2018 in May.
 
-In March 2018 I appeared at the Jupyter
+In February 2018 I published a blog article related to new challenges in teaching
+programming. [1](http://allendowney.blogspot.com/2018/02/learning-to-program-is-getting-harder.html)
+It was picked up by Reddit, Hacker News, and Slashdot, and has now been viewed nearly 100,000
+times, making it my second most popular article.  As of March 2018, articles on my blog have 
+been viewed more than 1.9 million times.
+
+I published a second article related to the use of software engineering tools and practices
+for computational science [1](http://allendowney.blogspot.com/2018/02/the-six-stages-of-computational-science.html),
+and gave a talk on these topics for the METAA CTO Clinic in March 2018.
+On a related point, I developed a module for Software Design on the use of Git for version control,
+and published it as part of a Git booklet I am working on.  It got a lot of attention on
+Twitter, earning nearly 100,000 impressions and almost 5000 engagements, making it my top tweet ever.
+
+Also in March 2018 I appeared at the Jupyter
 Popup in Boston on a panel related to "Jupyter in Education".
 
 
