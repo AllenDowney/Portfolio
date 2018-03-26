@@ -281,21 +281,33 @@ I have started work on a computational approach to Linear Algebra.
 During Summer 2017 I worked with Scott Hersey and the Cambridge School in Weston to help them
 develop a new course that integrates engineering, math, and science.
 
-I have worked with several Argosy fellows in my classes, including Manish Dat in Data Science, Spring 2017;
+I have worked with several Argosy fellows in my classes, including Manish Datt in Data Science, Spring 2017;
 Mitaxi Mehta in Complexity Science, Fall 2017; and Srikrishnan Divakaran in Software Systems, Spring 2018.
 
-I participated in Summer Institute in 2017.  I plan to participate again in 2018, as well as leading
+I participated in Summer Institute in 2017; I plan to participate again in 2018, as well as leading
 a workshop on Computation in STEM.
 
-In the future I will continue to seek opportunities to influence engineering
-education at other institutions through this kind of direct engagement.
+In the future I hope to continue to engage with other institutions through the Collaboratory.
 
 
 [Committee work](#committee-work)
 =======
 
-In 2016-17, I hope to work with the next incarnation of the ARB to
+In 2016-17, I was the chair of the ARB.  I initiated a project to revise our policies
+and processes for student planning, declaration of major, tracking progress toward
+graduation, and auditing graduating seniors.  The goal of this project was to 
 design procedures and structures that reflect our curriculum and the
 organization of the faculty.
+
+In 2017-18 I continued this work as a member and co-chair of the Curriculum Working Group.
+Working with Linda Canavan and Jeremy Goodman, we rolled out the first step of the new
+process, the Sophomore Declarathon, in November 2017, and the second step, the Junior
+Reality Check, in March 2018.  So far, these transitions are going smoothly, and I think
+they are taking us in a positive direction.
+
+I have been working with the CWG on two other policy changes: (1) a substantial revision
+of our policies for independent study, student research, student-led classes, and the OSS,
+and (2) a revision to our requirements in math and science, intended to support experiments
+in these areas including the next iteration of QEA.
 
 
