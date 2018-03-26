@@ -29,7 +29,7 @@ material more engaging, shift the balance from theory toward practice, and
 bring into the undergraduate curriculum topics often assumed to be
 accessible only at the graduate level.
 
-### Integrating Data Science and Bayesian Statistics with engineering.
+### Integrating Data Science and Engineering.
 
 Another goal of my work is to make working with data and
 reasoning about probability a more central part of the engineering
@@ -59,6 +59,14 @@ workshops are published on the web. And the supporting code for my
 classes and books are on GitHub, where anyone can copy, modify, and make
 corrections and contributions.
 
+Because they are freely available, my books are used in classes all over
+the world.  Schools using my books that I have heard about since my last report
+include Lulea Technical University in Sweden, McGill University in Canada,
+the University of Puerto Rico, Tecnológico de Monterrey in Mexico,
+Habib University in Pakistan, Khon Kaen University in Thailand,
+Sri Sivasubramaniya Nadar College of Engineering in India, and
+Shri Madhwa Vadiraja Institute of Technology and Management in India.
+
 In all of my projects, I “release early and release often”, getting
 constant feedback from readers and inviting collaboration. Following the
 principles of Open Science, I publish data and code along with research
@@ -76,8 +84,7 @@ for students to write for real audiences.
 I also engage students in my writing projects, often using independent
 study projects to develop and test preliminary materials, then inviting
 students to provide feedback on early drafts, and providing
-opportunities for them to contribute material (as in the
-
+opportunities for them to contribute material.
 
 All of these projects are intended to have impact within Olin, by preparing
 students and continuing the development of our curriculum, and outside Olin,
@@ -117,7 +124,6 @@ the semester, I published a series of blog articles highlighting student project
 [2](http://allendowney.blogspot.com/2017/04/honey-money-weather-terror.html)
 [3](http://allendowney.blogspot.com/2017/06/spring-2017-data-science-reports.html)
 
-
 Complementary to my teaching at Olin, I have developed a number of
 workshops related to Data Science.
 
@@ -134,10 +140,9 @@ a fast, high-level overview of the whole class.  In Data Science, I run the
 workshop later in the semester as a one-week introduction to Bayesian methods.
 
 In May and October 2017 I published two articles related to the decline
-of religion in the U.S. in the Scientific American blog 
+of religion in the U.S. in the Scientific American blog. 
 [1](https://blogs.scientificamerican.com/observations/college-freshmen-are-less-religious-than-ever/)
 [2](https://blogs.scientificamerican.com/observations/the-u-s-is-retreating-from-religion/)
-
 I gave a related talk for PyData Boston in June 2017.  
 
 Plans 
@@ -150,14 +155,13 @@ in Fall 2017.
 I will continue to write blog articles as opportunities arise, looking
 for topics that demonstrate the methodology of computational and
 Bayesian statistics, applied to topics in science, engineering, and
-social science. During Spring 2018 I am working on a series of articles related
+social science.  During Spring 2018 I am working on a series of articles related
 to changes in support for gun control laws.
 [1](http://allendowney.blogspot.com/2018/02/support-for-gun-control-is-lower-among.html)
 [2](http://allendowney.blogspot.com/2018/02/post-columbine-students-do-not-support.html)
 [3](http://allendowney.blogspot.com/2018/03/support-for-gun-control-is-decreasing.html)
 [4](http://allendowney.blogspot.com/2018/03/generational-changes-in-support-for-gun.html)
-
-Depending on how that project goes, I might publish a paper in an appropriate venue.
+Depending on how the project goes, I might publish a paper in an appropriate venue.
 
 In Spring 2018 I will teach Data Science again.  I am not planning major
 revisions, but I have accumulated a substantial collection of datasets and
@@ -208,8 +212,7 @@ On a related point, I developed a module for Software Design on the use of Git f
 and published it as part of a Git booklet I am working on.  It got a lot of attention on
 Twitter, earning nearly 100,000 impressions and almost 5000 engagements, making it my top tweet ever.
 
-Also in March 2018 I appeared at the Jupyter
-Popup in Boston on a panel related to "Jupyter in Education".
+In March 2018 I appeared at the Jupyter Popup in Boston on a panel related to "Jupyter in Education".
 
 
 
@@ -241,7 +244,7 @@ a new code library to support the class, creating Jupyter notebooks with example
 writing a new book, *Modeling and Simulation in Python*.
 
 The class went well for a first iteration, and we are making plans for a second iteration in
-Fall 2018 with almost the same teaching team.  During Summer 2018 I plan to make revisions to 
+Fall 2018, with almost the same teaching team.  During Summer 2018 I plan to make revisions to 
 the book and work toward publishing it.
 
 I am also working with Craig Scratchley at Simon Fraser University to revise and publish
@@ -261,7 +264,7 @@ I will present a revised version of the workshop at PyCon 2018 in May.
 
 In Fall 2017 I taught the class without Jason.  I continued work on *Think Complexity*, developing
 two new chapters on evolution.  Recently I signed a contract to publish the second edition with
-O'Reilly Media.
+O'Reilly Media.  The book is in technical review now and should be published by June 2018.
 
 
 
@@ -281,15 +284,13 @@ help address a need, perceived by students, for more traditional computer scienc
 curriculum.
 
 
-
 Plans
 -----
 
 I have my eyes open for opportunities to collaborate with colleagues to develop computational 
 approaches in other areas of engineering, math, and natural and social science.  
 
-In Spring 2017 I joined Quantitive Engineering Analysis (QEA) and helped transition the first
-project from Mathematica to MATLAB.  But I left the QEA team after the first project.
+In Spring 2017 I helped the QEA team transition the first project from Mathematica to MATLAB.
 
 I have started work on a computational approach to Linear Algebra.
 
@@ -307,7 +308,7 @@ Mitaxi Mehta in Complexity Science, Fall 2017; and Srikrishnan Divakaran in Soft
 I participated in Summer Institute in 2017; I plan to participate again in 2018, as well as leading
 a workshop on Computation in STEM.
 
-In the future I hope to continue to engage with other institutions through the Collaboratory.
+I hope to continue to engage with other institutions through the Collaboratory.
 
 
 [Committee work](#committee-work)
