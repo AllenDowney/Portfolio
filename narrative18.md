@@ -49,16 +49,15 @@ workshops are published on the web. And the supporting code for my
 classes and books are on GitHub, where anyone can copy, modify, and make
 corrections and contributions.
 
-Because they are freely available, my books are used in classes all over
-the world.  Schools using my books that I have heard about since my last report
-include Lulea Technical University in Sweden, McGill University in Canada,
+Because my books are freely available, they are used in classes all over
+the world.  Since my last report, I have heard from people using them
+at Lulea Technical University in Sweden, McGill University in Canada,
 the University of Puerto Rico, Tecnológico de Monterrey in Mexico,
 Habib University in Pakistan, Khon Kaen University in Thailand,
-Sri Sivasubramaniya Nadar College of Engineering in India, and
-Shri Madhwa Vadiraja Institute of Technology and Management in India.
+and Sri Sivasubramaniya Nadar College of Engineering in India.
 
 In all of my projects, I “release early and release often”, getting
-constant feedback from readers and inviting collaboration. Following the
+feedback from readers and inviting collaboration. Following the
 principles of Open Science, I publish data and code along with research
 results, allowing others to reproduce and modify my analysis. And I
 don't publish in venues that do not make papers and supporting materials
