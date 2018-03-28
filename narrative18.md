@@ -1,9 +1,8 @@
 
+## Overview
+
 This annual report describes my activities and achievements since
 I submitted my reappointment portfolio in August 2016.
-
-
-## Overview
 
 The following themes connect my work in developing students, building and
 sustaining Olin College, and effecting change in engineering education:
@@ -85,7 +84,8 @@ education.
 
 I am continuing work to develop our curriculum in data science.
 
-In Fall 2016 I taught Computational Bayesian Statistics and began work on the
+In Fall 2016 I taught [Computational Bayesian Statistics](https://sites.google.com/site/compbayes16/)
+and began work on the
 second edition of *Think Bayes*.  I wrote Jupyter notebooks that contain the examples
 and exercises from each chapter, and developed new examples.
 I published several blog articles based on student work.
@@ -104,7 +104,8 @@ exercises from Think Stats 2e.  I published a series of blog articles with examp
 from the notebooks.
 [1](http://allendowney.blogspot.com/2017/01/last-batch-of-notebooks-for-think-stats.html)
 
-In Spring 2017 I taught Data Science using the new notebooks.  Over the course of
+In Spring 2017 I taught [Data Science](https://sites.google.com/site/datascienceolin17/)
+using the new notebooks.  Over the course of
 the semester, I published a series of blog articles highlighting student projects.
 [1](http://allendowney.blogspot.com/2017/03/money-murder-midwest-and-more.html)
 [2](http://allendowney.blogspot.com/2017/04/honey-money-weather-terror.html)
@@ -176,7 +177,7 @@ In March 2017 I was invited to EdFoo, a conference on education co-sponsored by
 Google, Macmillan Learning, O'Reilly Media, Scientific American, and Sesame Workshop.
 I presented a short version of this talk, which led to an
 article published in the Scientific American blog in April 2017
-[1](https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking.
+[1](https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking).
 
 In Fall 2017 I worked with Jason Moore at U.C.Davis to develop a workshop, called
 "Computation in STEM", based on these ideas.
@@ -205,12 +206,14 @@ In March 2018 I appeared at the Jupyter Popup in Boston on a panel related to "J
 
 ### Software Systems
 
-In Spring 2017 I co-taught Software Systems with Ben Hill.  During the first half of the
+In Spring 2017 I co-taught [Software Systems](https://sites.google.com/site/softsys17/) with Ben Hill.
+During the first half of the
 semester, we used an EduScrum format, which I had tested during the previous offering of the
 class.  Contrary to my expectations, EduScrum did not work well for us, and we abandoned it
 in the second half.
 
-I am teaching the class again now (Spring 2018).  Continuing the changes Ben and I made
+I am teaching [Software Systems](https://sites.google.com/site/softsys18/) again now (Spring 2018).
+Continuing the changes Ben and I made
 last time around, the class is going very well.
 
 I am continuing work on the two textbooks for the class, *Think OS* and *The Little Book of Semaphores*.
@@ -224,7 +227,8 @@ will work toward publishing it with O'Reilly Media.
 ### Modeling and Simulation
 
 During Summer 2017 I worked with Jason Woodard, Alison Wood, and Chris Lee on a substantial
-revision to Modeling and Simulation.  Changes included switching from MATLAB to Python, developing
+revision to [Modeling and Simulation](https://canvas.instructure.com/courses/1189885).
+Changes included switching from MATLAB to Python, developing
 a new code library to support the class, creating Jupyter notebooks with examples and exercises, and 
 writing a new book, *Modeling and Simulation in Python*.
 
@@ -238,7 +242,8 @@ I am also working with Craig Scratchley at Simon Fraser University to revise and
 
 ### Complexity Science
 
-In Fall 2016 I co-taught Complexity Science with Jason Woodard.  This class was a substantial
+In Fall 2016 I co-taught [Complexity Science](https://canvas.instructure.com/courses/1060372) 
+with Jason Woodard.  This class was a substantial
 revision of Computational Modeling.  I started work on the second edition of *Think Complexity*
 and developed Jupyter notebooks containing the examples and exercises from the book.  The class
 went very well; I learned a lot, and the class benefited greatly, from Jason's contributions.
@@ -246,7 +251,8 @@ went very well; I learned a lot, and the class benefited greatly, from Jason's c
 In May 2017, I developed a workshop based on the class, which I presented at PyCon 2017 in Oregon.
 I will present a revised version of the workshop at PyCon 2018 in May.
 
-In Fall 2017 I taught the class without Jason.  I continued work on *Think Complexity*, developing
+In Fall 2017 I taught [Complexity Science](https://sites.google.com/site/complexityscience17/)
+again, this time without Jason.  I continued work on *Think Complexity*, developing
 two new chapters on evolution.  Recently I signed a contract to publish the second edition with
 O'Reilly Media.  The book is in technical review now and should be published by June 2018.
 
@@ -254,16 +260,15 @@ O'Reilly Media.  The book is in technical review now and should be published by 
 
 ### Data Structures and Algorithms
 
-In Fall 2016 I led an independent study on Object Oriented Programming, based on material from
-my Software Engineering class, to help students prepare for a student-led class on Data Structures
+In Fall 2016 I led an independent study on [Object Oriented Programming](https://sites.google.com/site/javaoop16/),
+based on material from my Software Engineering class, to help students prepare for a student-led class on Data Structures
 and Algorithms.
 
-In Spring 2017, I was the faculty adviser for Data Structures and Algorithms (DSA), which was based in
+In Spring 2017, I was the faculty adviser for [Data Structures and Algorithms](https://github.com/Olin-DSA/DSA-17) (DSA), which was based in
 part on the curriculum I developed for the Flatiron School in New York.  I revised that material
 into a book called *Think Data Structures*, which was published by O'Reilly Media in July 2017.
 
-In Spring 2018, another group of students is offering DSA as a student-led class.  These offerings
-help address a need, perceived by students, for more traditional computer science topics in our
+In Spring 2018, another group of students is offering [DSA](https://github.com/Olin-DSA/DSA-18) as a student-led class.  These offerings help address a need, perceived by students, for more traditional computer science topics in our
 curriculum.
 
 
