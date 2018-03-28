@@ -1,5 +1,9 @@
 
-## Overview
+## Annual Report
+
+Allen Downey
+
+March 2018
 
 This annual report describes my activities and achievements since
 I submitted my reappointment portfolio in August 2016.
@@ -285,7 +289,7 @@ I have started work on a computational approach to Linear Algebra.
 
 ## Collaboratory
 
-During Summer 2017 I worked with Scott Hersey and the Cambridge School in Weston to help them
+During Summer 2017 I worked with Scott Hersey and the Cambridge School of Weston to help them
 develop a new course that integrates engineering, math, and science.
 
 I have worked with several Argosy fellows in my classes, including Manish Datt in Data Science, Spring 2017;
