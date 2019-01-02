@@ -5,9 +5,6 @@ Allen Downey
 
 January 2019
 
-This annual report describes my activities and achievements since
-my previous report in March 2018.
-
 
 ## Data Science
 
