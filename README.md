@@ -3,14 +3,11 @@ Allen Downey at Olin College
 
 ### Documents
 
-* [Narrative, Fall 2016](https://github.com/AllenDowney/Portfolio16/blob/master/narrative.md)
+* [Narrative, Fall 2016](https://github.com/AllenDowney/Portfolio/blob/master/narrative.md)
 
-* [Narrative, Spring 2018](https://github.com/AllenDowney/Portfolio16/blob/master/narrative18.md)
+* [Narrative, Spring 2018](https://github.com/AllenDowney/Portfolio/blob/master/narrative18.md)
 
-* [CV](https://github.com/AllenDowney/Portfolio16/blob/master/downeyCV.pdf)
+* [Narrative, Spring 2019](https://github.com/AllenDowney/Portfolio/blob/master/narrative19.md)
 
-### Appendices
+* [CV](https://github.com/AllenDowney/Portfolio/blob/master/downeyCV.pdf)
 
-* [Survey of classes using my books](https://github.com/AllenDowney/Portfolio16/blob/master/survey_of_classes.pdf)
-
-* [Web site statistics](http://htmlpreview.github.io/?https://github.com/AllenDowney/Portfolio16/blob/master/greenteapress_webstats.html)
