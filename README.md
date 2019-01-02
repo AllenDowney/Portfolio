@@ -9,5 +9,5 @@ Allen Downey at Olin College
 
 * [Narrative, Spring 2019](https://github.com/AllenDowney/Portfolio/blob/master/narrative19.md)
 
-* [CV](https://github.com/AllenDowney/Portfolio/blob/master/downeyCV.pdf)
+* [CV](https://github.com/AllenDowney/Portfolio/raw/master/Allen_Downey_CV.pdf)
 
