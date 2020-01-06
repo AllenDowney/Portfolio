@@ -45,6 +45,8 @@ In July I presented a talk at SciPy, ["Generational Changes in Support for Gun L
 and made a presentation for the teen track.
 I served on the SciPy tutorial selection committee.
 
+In September I completed [instructor training with The Carpentries](https://carpentries.github.io/instructor-training/21-carpentries/index.html).
+
 In September I attended the New England Isolated Statisticians Meeting (NEISM) at Wellesley College.
 
 In November I presented "The Inspection Paradox is Everywhere" at 
@@ -89,6 +91,7 @@ In the fall semester I taught [Complexity Science](https://sites.google.com/site
 
 I am continuing to revise [*Physical Modeling in MATLAB*](https://greenteapress.com/wp/physical-modeling-in-matlab/), 
 to be published by [No Starch Press](https://nostarch.com) in 2020.
+I am working with MathWorks toward developing [online materials to support the book](https://www.mathworks.com/matlabcentral/fileexchange/72277-physicalmodelinginmatlab).
 
 
 ## Free books
