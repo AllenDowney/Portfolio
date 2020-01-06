@@ -11,7 +11,7 @@ January 2020
 I am continuing work to develop an undergraduate curriculum in Data Science for use at Olin and other schools.
 
 Related to my work on Bayesian statistics for undergrads, in February I presented 
-"The Bayesian Zig Zag: Developing Probabilistic Models Using Grid Methods and MCMC" as 
+["The Bayesian Zig Zag: Developing Probabilistic Models Using Grid Methods and MCMC"](https://www.youtube.com/watch?v=LuiJ-0ROvGA) as 
 [a TechTalk for the ACM Learning Center](https://on.acm.org/t/the-bayesian-zig-zag-developing-probabilistic-models-using-grid-methods-and-mcmc/853).
 
 At SciPy in July, I led a half-day tutorial called 
