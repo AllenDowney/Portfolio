@@ -70,7 +70,12 @@ In Spring 2020 I will teach Data Science at Olin in parallel with DS10 at Harvar
 the new curriculum my collaborators and I developed.
 
 
-## Modeling and Simulation
+## Computational Modeling
+
+In March I presented a workshop at Harvard University on 
+["Eight Ways to Use Computation to Teach Everything Else"](https://linc.seas.harvard.edu/event/faculty-workshop-0).
+I also taught this workshop in a longer format at 
+[Olin's Summer Institute 2019](http://www.olin.edu/collaborate/collaboratory/summer-institute/) in June.
 
 During the summer I made a substantial revision to 
 [*Modeling and Simulation in Python*](https://greenteapress.com/wp/modsimpy/) and 
@@ -86,28 +91,6 @@ I am continuing to revise [*Physical Modeling in MATLAB*](https://greenteapress.
 to be published by [No Starch Press](https://nostarch.com) in 2020.
 
 
-
-## Computation in STEM
-
-In March I presented a workshop at Harvard University on 
-["Eight Ways to Use Computation to Teach Everything Else"](https://linc.seas.harvard.edu/event/faculty-workshop-0).
-I also taught this workshop in a longer format at 
-[Olin's Summer Institute 2019](http://www.olin.edu/collaborate/collaboratory/summer-institute/) in June.
-
-
-
-## Complexity Science
-
-In Fall 2017 I taught [Complexity Science](https://sites.google.com/site/complexityscience17/)
-and continued work on *Think Complexity*, developing two new chapters on evolution.
-The second edition was published in August 2018.
-
-In May 2018 I presented a [workshop based on *Think Complexity*](https://us.pycon.org/2018/schedule/presentation/56/)
-at PyCon 2018.  It was the top-rated workshop at the conference.
-
-The second edition of [*Think Complexity*](http://greenteapress.com/wp/think-complexity-2e/) was published in August 2018.
-
-
 ## Free books
 
 All of my books are available under free licenses that allow readers to
@@ -118,9 +101,11 @@ collaborations with co-authors all over the world.
 In the last few years, O'Reilly Media has published translations of my books
 in ...
 
-Think Julia
+[*Think Julia*](http://shop.oreilly.com/product/0636920215707.do), a collaboration with Ben Lauwens at the Royal Military Academy in Belgium, 
+was published by O'Reilly Media in April 2019.
 
-Think Java 2nd edition
+[*Think Java, 2nd edition*](http://shop.oreilly.com/product/0636920304364.do), a collaboration with Chris Mayfield at James Madison University, was
+published by O'Reilly Media in December 2019.
 
 My course material, slides from my presentations, and material from my
 workshops are published on the web. And the supporting code for my
