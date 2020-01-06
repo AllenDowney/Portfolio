@@ -98,6 +98,11 @@ copy, modify, and redistribute them. These licenses make possible
 many translations, adaptations, and derivative works, and lead to
 collaborations with co-authors all over the world.
 
+I continue to develop [*Think OS*](http://greenteapress.com/thinkos/) and 
+[*The Little Book of Semaphores*](https://greenteapress.com/wp/semaphores/), 
+which I used in the Spring 2019 offering of 
+[Software Systems](https://sites.google.com/site/softsys19/).
+
 [*Think Julia*](http://shop.oreilly.com/product/0636920215707.do), a collaboration with Ben Lauwens at the Royal Military Academy in Belgium, 
 was published by O'Reilly Media in April 2019.
 
