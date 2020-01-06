@@ -1,5 +1,5 @@
 
-## Annual Report
+# Annual Report
 
 Allen Downey
 
@@ -10,17 +10,20 @@ January 2020
 
 I am continuing work to develop an undergraduate curriculum in Data Science for use at Olin and other schools.
 
-Related to my work on Bayesian statistics for undergrads, in February I presented "The Bayesian Zig Zag: Developing Probabilistic Models Using Grid Methods and MCMC" 
-as [a TechTalk for the ACM Learning Center](https://on.acm.org/t/the-bayesian-zig-zag-developing-probabilistic-models-using-grid-methods-and-mcmc/853).
-At SciPy in July, I led a tutorial on [Bayesian Statistics Made Easy](https://www.youtube.com/watch?v=-X0BiV9n_fQ).
+Related to my work on Bayesian statistics for undergrads, in February I presented 
+"The Bayesian Zig Zag: Developing Probabilistic Models Using Grid Methods and MCMC" as 
+[a TechTalk for the ACM Learning Center](https://on.acm.org/t/the-bayesian-zig-zag-developing-probabilistic-models-using-grid-methods-and-mcmc/853).
+
+At SciPy in July, I led a half-day tutorial called 
+[Bayesian Statistics Made Easy](https://www.youtube.com/watch?v=-X0BiV9n_fQ).
 
 In September I was appointed as a Visiting Professor of Computer Science at Harvard University, 
 where I was a co-instructor for a [graduate data science seminar](http://stat250.org/2019/) and 
 collaborated on developing
 [a new data science class which will be offered in Spring 2020](http://datascience10.org/2020/).
 
-One of my contributions was the development of new online curricular materials,
-called ["Elements of Data Science"](https://allendowney.github.io/ElementsOfDataScience/)
+One of my contributions was the development of a new online data science curriculum,
+called ["Elements of Data Science"](https://allendowney.github.io/ElementsOfDataScience/),
 and two case studies on:
 
 * [Political alignment in the U.S.](https://github.com/AllenDowney/PoliticalAlignmentCaseStudy) and
@@ -54,7 +57,7 @@ In 2019 I published several blog articles related to Data Science, including:
 * [An article on characterizing the tail behavior of distributions](https://www.allendowney.com/blog/2019/08/13/watch-your-tail/)
 * [An update of my previous reports on marriage patterns in the U.S.](https://www.allendowney.com/blog/2019/02/21/are-men-getting-married-later-or-never-both/) 
 
-In 2019 articles on my blog were viewed more than 30,000 times.
+These articles were viewed more than 30,000 times.
 In an experiment to reach a broader audience, I wrote several articles on Medium, 
 two of which were picked up by the online publication [Towards Data Science](https://towardsdatascience.com):
 
@@ -63,58 +66,34 @@ two of which were picked up by the online publication [Towards Data Science](htt
 
 These articles were viewed more than 35,000 times.
 
-
-
-
+In Spring 2020 I will teach Data Science at Olin in parallel with DS10 at Harvard, with both classes using
+the new curriculum my collaborators and I developed.
 
 
 ## Modeling and Simulation
 
-ModSim book
+During the summer I made a substantial revision to 
+[*Modeling and Simulation in Python*](https://greenteapress.com/wp/modsimpy/) and 
+[the accompanying software](https://github.com/AllenDowney/ModSimPy), which were used in the fall offering of 
+Modeling and Simulation at Olin. 
 
-I continuing to revise
-*Modeling and Simulation in MATLAB*, to be published by [Apress](https://www.apress.com/us) in 2020.
+In July I taught a half-day tutorial on
+[Complexity Science](https://www.youtube.com/watch?v=ccA6ghSW1Iw) at SciPy 2019.
 
-[Complexity Science](https://www.youtube.com/watch?v=ccA6ghSW1Iw)
+In the fall semester I taught [Complexity Science](https://sites.google.com/site/complexityscience19/) at Olin.
+
+I am continuing to revise [*Physical Modeling in MATLAB*](https://greenteapress.com/wp/physical-modeling-in-matlab/), 
+to be published by [No Starch Press](https://nostarch.com) in 2020.
+
+
 
 ## Computation in STEM
 
 In March I presented a workshop at Harvard University on 
 ["Eight Ways to Use Computation to Teach Everything Else"](https://linc.seas.harvard.edu/event/faculty-workshop-0).
-I also taught this workshop at 
+I also taught this workshop in a longer format at 
 [Olin's Summer Institute 2019](http://www.olin.edu/collaborate/collaboratory/summer-institute/) in June.
 
-I collaborated with Jason Moore at U.C.Davis to develop a workshop, called
-"Computation in STEM".
-We presented the workshop for the first time at Davis in January 2018,
-and I presented a version at Olin's Summer Instutute 2018.
-Jason and I will present a version at the KEEN National Conference in January 2019.
-
-In February 2018 I published a blog article related to new challenges in teaching programming,
-[Learning to program is getting harder](http://allendowney.blogspot.com/2018/02/learning-to-program-is-getting-harder.html)
-It was picked up by Reddit, [Hacker News](https://news.ycombinator.com/item?id=16394857), 
-and Slashdot, and has now been viewed more than 100,000
-times, making it my second most popular article.  
-As of January 2019, articles on my blog have been viewed more than 2.2 million times.
-
-I published a second article related to the use of software engineering tools and practices
-for computational science,
-[The Six Stages of Computational Science](http://allendowney.blogspot.com/2018/02/the-six-stages-of-computational-science.html), and gave a talk on these topics for the METAA CTO Clinic in March 2018.
-
-On a related point, I developed a module for Software Design on the use of Git for version control,
-and published it as part of a Git booklet I am working on.  It got a lot of attention on
-Twitter, earning nearly 100,000 impressions and almost 5000 engagements, making it my top tweet ever.
-
-I presented a [workshop based on *Think DSP*](https://us.pycon.org/2018/schedule/presentation/39/)
-at PyCon 2018 in May.  It was the third highest-rated workshop at the conference.
-
-In March 2018 I appeared at the Jupyter Popup in Boston on a panel related to "Jupyter in Education".
-
-In August 2018 I attended JupyterCon 2018 in New York and appeared on a panel,
-["The future of Jupyter in education"](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/71871).
-
-In November 2018 I attended a book sprint at George Washington University and helped write a 77-page draft
-of [*Teaching and Learning with Jupyter*](https://jupyter4edu.github.io/jupyter-edu-book/).
 
 
 ## Complexity Science
@@ -129,29 +108,6 @@ at PyCon 2018.  It was the top-rated workshop at the conference.
 The second edition of [*Think Complexity*](http://greenteapress.com/wp/think-complexity-2e/) was published in August 2018.
 
 
-
-## Student planning, advising, and auditing
-
-In 2016-17, I initiated a project to revise our policies
-and processes for student planning, declaration of major, tracking progress toward
-graduation, and auditing graduating seniors.  The goal of this project is to 
-design procedures and structures that reflect our curriculum and the
-organization of the faculty.  In 2017-18 I continued this work as a member and
-co-chair of the Curriculum Working Group.
-
-In Fall 2018, I worked with Linda Canavan, Jeremy Goodman, and Adva Waranyuwat to
-collect plans of study from all Sophomores, Juniors, and Seniors, and to approve
-their engineering concentrations, AHS/Entrepreneurship concentrations, and plans to
-satisfy other requirements.
-
-I worked with the CWG on two other policy changes: (1) a substantial revision
-of our policies for independent study, student research, student-led classes, and the OSS,
-and (2) a revision to our requirements in math and science, intended to support experiments
-in these areas including the next iteration of QEA.
-
-During Summer 2018 I worked with the Registrar's office to finalize the 2018-18 Catalog.
-
-
 ## Free books
 
 All of my books are available under free licenses that allow readers to
@@ -160,12 +116,11 @@ many translations, adaptations, and derivative works, and lead to
 collaborations with co-authors all over the world.
 
 In the last few years, O'Reilly Media has published translations of my books
-in Chinese (traditional and simplified), Japanese, Korean, French,
-Italian, Spanish, Portuguese, German, Polish, Russian, and Croatian.
+in ...
 
-In addition, volunteers have translated my books into other programming
-languages, including a recently-published version in Perl and 
-versions-in-progress in Julia and Go.
+Think Julia
+
+Think Java 2nd edition
 
 My course material, slides from my presentations, and material from my
 workshops are published on the web. And the supporting code for my
@@ -174,20 +129,30 @@ corrections and contributions.
 
 Because my books are freely available, they are used in classes all over
 the world.  Since my last report, I have heard from people using them
-at U.C. Berkeley;
-Duke University;
-Brigham Young University;
-Northeastern University;
-Longwood University;
-St. Catherine University;
-Southern New Hampshire University;
-GHS Kumba III, Cameroon;
-National University of Singapore;
-Federal University of Espírito Santo, Brazil;
-Tecnologico de Monterrey, Mexico;
-Pune Institute of Business Management, India;
-Breckenridge High School;
-San Leandro High School.
+at 
+Northeastern University,
+Indiana University, 
+San Diego State University,
+University of Iowa,
+University of Oregon,
+San Jose State University,
+Cal State University Monterey Bay,
+Loyola University - Maryland,
+University of New Haven, and
+Black Hills State University;
+Lancing College,
+Dawson College,
+Union College,
+Santa Monica College,
+Principia College, and
+Berklee College of Music in Boston;
+NIIT University,
+Universidade Federal de Alagoas, and
+Simon Bolivar University in Venezuela;
+Kearsarge Regional High School,
+Herricks High School,
+Atkins School District, and
+Ball High School in Texas.
 
 In all of my projects, I “release early and release often”, getting
 feedback from readers and inviting collaboration. Following the
