@@ -72,8 +72,8 @@ the new curriculum my collaborators and I developed.
 
 ## Computational Modeling
 
-In March I presented a workshop at Harvard University on 
-["Eight Ways to Use Computation to Teach Everything Else"](https://linc.seas.harvard.edu/event/faculty-workshop-0).
+In January, Jason Moore from UC Davis and I presented ["Eight Ways to Use Computation to Teach Everything Else"](https://engineeringunleashed.com/Events/NationalConference.aspx?EventGuid=c4a40a01-ae26-4f3a-99ef-2ec4039244f9#workshops) at the KEEN National Conference.
+In March I presented [a version of this workshop at Harvard University](https://linc.seas.harvard.edu/event/faculty-workshop-0).
 I also taught this workshop in a longer format at 
 [Olin's Summer Institute 2019](http://www.olin.edu/collaborate/collaboratory/summer-institute/) in June.
 
