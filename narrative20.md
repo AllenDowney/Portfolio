@@ -80,7 +80,7 @@ I also taught this workshop in a longer format at
 During the summer I made a substantial revision to 
 [*Modeling and Simulation in Python*](https://greenteapress.com/wp/modsimpy/) and 
 [the accompanying software](https://github.com/AllenDowney/ModSimPy), which were used in the fall offering of 
-Modeling and Simulation at Olin. 
+[Modeling and Simulation at Olin](https://canvas.instructure.com/courses/1675202/). 
 
 In July I taught a half-day tutorial on
 [Complexity Science](https://www.youtube.com/watch?v=ccA6ghSW1Iw) at SciPy 2019.
@@ -98,14 +98,16 @@ copy, modify, and redistribute them. These licenses make possible
 many translations, adaptations, and derivative works, and lead to
 collaborations with co-authors all over the world.
 
-In the last few years, O'Reilly Media has published translations of my books
-in ...
-
 [*Think Julia*](http://shop.oreilly.com/product/0636920215707.do), a collaboration with Ben Lauwens at the Royal Military Academy in Belgium, 
 was published by O'Reilly Media in April 2019.
 
 [*Think Java, 2nd edition*](http://shop.oreilly.com/product/0636920304364.do), a collaboration with Chris Mayfield at James Madison University, was
 published by O'Reilly Media in December 2019.
+A version of *Think Java* has been adapted as an [interactive online book by Trinket](https://books.trinket.io/thinkjava/).
+
+Several of my books have been licensed by Codio and are in development as [interactive online books](https://www.codio.com/blog/introducing-codio-books).
+
+In 2019, new translations of my books have been published in [COMING SOON].
 
 My course material, slides from my presentations, and material from my
 workshops are published on the web. And the supporting code for my
