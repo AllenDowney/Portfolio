@@ -10,13 +10,6 @@ January 2020
 
 I am continuing work to develop an undergraduate curriculum in Data Science for use at Olin and other schools.
 
-Related to my work on Bayesian statistics for undergrads, in February I presented 
-["The Bayesian Zig Zag: Developing Probabilistic Models Using Grid Methods and MCMC"](https://www.youtube.com/watch?v=LuiJ-0ROvGA) as 
-[a TechTalk for the ACM Learning Center](https://on.acm.org/t/the-bayesian-zig-zag-developing-probabilistic-models-using-grid-methods-and-mcmc/853).
-
-At SciPy in July, I led a half-day tutorial called 
-[Bayesian Statistics Made Easy](https://www.youtube.com/watch?v=-X0BiV9n_fQ).
-
 In September I was appointed as a Visiting Professor of Computer Science at Harvard University, 
 where I was a co-instructor for a [graduate data science seminar](http://stat250.org/2019/) and 
 collaborated on developing
@@ -35,7 +28,7 @@ As a class project, some students participated in the [ASA DataFest](https://ww2
 looked at the effect of the Opioid Epidemic on life expectancy in the U.S.;
 [I published a summary of the class projects in my blog](https://www.allendowney.com/blog/2019/03/20/happiness-mental-health-drugs-politics-and-language/).
 
-In April I launched an online course with DataCamp, 
+In April I launched an online course with DataCamp,
 ["Exploratory Data Analysis in Python"](https://www.datacamp.com/instructors/allen-downey).
 At this point, almost as many people have taken this course online as I have taught, in person, in my academic career.
 Since July I have been a member of 
@@ -68,14 +61,23 @@ two of which were picked up by the online publication [Towards Data Science](htt
 
 These articles were viewed more than 35,000 times.
 
+Related to my work on Bayesian statistics for undergrads, in February I presented 
+["The Bayesian Zig Zag: Developing Probabilistic Models Using Grid Methods and MCMC"](https://www.youtube.com/watch?v=LuiJ-0ROvGA) as 
+[a TechTalk for the ACM Learning Center](https://on.acm.org/t/the-bayesian-zig-zag-developing-probabilistic-models-using-grid-methods-and-mcmc/853).
+
+At SciPy in July, I led a half-day tutorial called 
+[Bayesian Statistics Made Easy](https://www.youtube.com/watch?v=-X0BiV9n_fQ).
+
 In Spring 2020 I will teach Data Science at Olin in parallel with DS10 at Harvard, with both classes using
 the new curriculum my collaborators and I developed.
 
 
 ## Computational Modeling
 
-In January, Jason Moore from UC Davis and I presented ["Eight Ways to Use Computation to Teach Everything Else"](https://engineeringunleashed.com/Events/NationalConference.aspx?EventGuid=c4a40a01-ae26-4f3a-99ef-2ec4039244f9#workshops) at the KEEN National Conference.
+In January, I collaborated with Jason Moore from UC Davis to lead a workshop, ["Eight Ways to Use Computation to Teach Everything Else"](https://engineeringunleashed.com/Events/NationalConference.aspx?EventGuid=c4a40a01-ae26-4f3a-99ef-2ec4039244f9#workshops), at the KEEN National Conference.
+
 In March I presented [a version of this workshop at Harvard University](https://linc.seas.harvard.edu/event/faculty-workshop-0).
+
 I also taught this workshop in a longer format at 
 [Olin's Summer Institute 2019](http://www.olin.edu/collaborate/collaboratory/summer-institute/) in June.
 
@@ -88,6 +90,10 @@ In July I taught a half-day tutorial on
 [Complexity Science](https://www.youtube.com/watch?v=ccA6ghSW1Iw) at SciPy 2019.
 
 In the fall semester I taught [Complexity Science](https://sites.google.com/site/complexityscience19/) at Olin.
+Some of the more successful projects are 
+[here](https://github.com/kdy304g/ComplexLizards-CA/blob/master/reports/final_report.md), 
+[here](https://github.com/jzerez/swarm_classification/blob/master/reports/Final_Report.md), and 
+[here](https://sportsracer48.github.io/2019-12-11-Cooperation/).
 
 I am continuing to revise [*Physical Modeling in MATLAB*](https://greenteapress.com/wp/physical-modeling-in-matlab/), 
 to be published by [No Starch Press](https://nostarch.com) in 2020.
