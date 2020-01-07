@@ -5,10 +5,12 @@ Allen Downey
 
 January 2020
 
+Overview of my professional activities in 2019.
+
 
 ## Data Science
 
-I am continuing work to develop an undergraduate curriculum in Data Science for use at Olin and other schools.
+I am continuing work on an undergraduate curriculum in Data Science for use at Olin and other schools.
 
 In September I was appointed as a Visiting Professor of Computer Science at Harvard University, 
 where I was a co-instructor for a [graduate data science seminar](http://stat250.org/2019/) and 
