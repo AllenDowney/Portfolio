@@ -115,7 +115,8 @@ A version of *Think Java* has been adapted as an [interactive online book by Tri
 
 Several of my books have been licensed by Codio and are in development as [interactive online books](https://www.codio.com/blog/introducing-codio-books).
 
-In 2019, new translations of my books have been published in [COMING SOON].
+In 2019, new translations of my books have been published in Russian, 
+traditional Chinese, and simplified Chinese.
 
 My course material, slides from my presentations, and material from my
 workshops are published on the web. And the supporting code for my
