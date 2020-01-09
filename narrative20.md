@@ -17,14 +17,14 @@ where I was a co-instructor for a [graduate data science seminar](http://stat250
 collaborated on developing
 [a new data science class which will be offered in Spring 2020](http://datascience10.org/2020/).
 
-One of my contributions was the development of a new online data science curriculum,
+One of my contributions is a new online data science curriculum,
 called ["Elements of Data Science"](https://allendowney.github.io/ElementsOfDataScience/),
 and two case studies on:
 
 * [Political alignment in the U.S.](https://github.com/AllenDowney/PoliticalAlignmentCaseStudy) and
 * [Survival Analysis](https://github.com/AllenDowney/SurvivalAnalysisPython).
 
-In the spring I taught [Data Science](https://sites.google.com/site/olinds19/).
+In the spring I taught [Data Science](https://sites.google.com/site/olinds19/) at Olin.
 As a class project, some students participated in the [ASA DataFest](https://ww2.amstat.org/education/datafest/).
 [One of the more successful projects](https://github.com/ASHSWAN1999/DataScienceProject2/blob/master/report2.md)
 looked at the effect of the Opioid Epidemic on life expectancy in the U.S.;
@@ -44,9 +44,9 @@ In September I completed [instructor training with The Carpentries](https://carp
 
 In September I attended the New England Isolated Statisticians Meeting (NEISM) at Wellesley College.
 
-In November I presented "The Inspection Paradox is Everywhere" at 
-[PyData NYC](https://pydata.org/nyc2019/speaker/profile/107/allen-downey/) and 
-[PyData Boston](https://www.meetup.com/PyData-Boston-Cambridge/events/266108920/)
+In November I presented "The Inspection Paradox is Everywhere" at the
+[PyData NYC Conference](https://pydata.org/nyc2019/speaker/profile/107/allen-downey/) and the
+[PyData Boston Meetup](https://www.meetup.com/PyData-Boston-Cambridge/events/266108920/)
 
 In 2019 I published several blog articles related to Data Science, including:
 
@@ -78,15 +78,13 @@ the new curriculum my collaborators and I developed.
 
 In January, I collaborated with Jason Moore from UC Davis to lead a workshop, ["Eight Ways to Use Computation to Teach Everything Else"](https://engineeringunleashed.com/Events/NationalConference.aspx?EventGuid=c4a40a01-ae26-4f3a-99ef-2ec4039244f9#workshops), at the KEEN National Conference.
 
-In March I presented [a version of this workshop at Harvard University](https://linc.seas.harvard.edu/event/faculty-workshop-0).
-
-I also taught this workshop in a longer format at 
+In March I presented [a version of this workshop at Harvard University](https://linc.seas.harvard.edu/event/faculty-workshop-0).  I also taught this workshop in a longer format at 
 [Olin's Summer Institute 2019](http://www.olin.edu/collaborate/collaboratory/summer-institute/) in June.
 
-During the summer I made a substantial revision to 
+During the summer I revised 
 [*Modeling and Simulation in Python*](https://greenteapress.com/wp/modsimpy/) and 
 [the accompanying software](https://github.com/AllenDowney/ModSimPy), which were used in the fall offering of 
-[Modeling and Simulation at Olin](https://canvas.instructure.com/courses/1675202/). 
+[Modeling and Simulation](https://canvas.instructure.com/courses/1675202/) at Olin. 
 
 In July I taught a half-day tutorial on
 [Complexity Science](https://www.youtube.com/watch?v=ccA6ghSW1Iw) at SciPy 2019.
@@ -101,18 +99,12 @@ I am continuing to revise [*Physical Modeling in MATLAB*](https://greenteapress.
 to be published by [No Starch Press](https://nostarch.com) in 2020.
 I am working with MathWorks toward developing [online materials to support the book](https://www.mathworks.com/matlabcentral/fileexchange/72277-physicalmodelinginmatlab).
 
-
 ## Free books
 
 All of my books are available under free licenses that allow readers to
 copy, modify, and redistribute them. These licenses make possible
 many translations, adaptations, and derivative works, and lead to
 collaborations with co-authors all over the world.
-
-I continue to develop [*Think OS*](http://greenteapress.com/thinkos/) and 
-[*The Little Book of Semaphores*](https://greenteapress.com/wp/semaphores/), 
-which I used in the Spring 2019 offering of 
-[Software Systems](https://sites.google.com/site/softsys19/).
 
 [*Think Julia*](http://shop.oreilly.com/product/0636920215707.do), a collaboration with Ben Lauwens at the Royal Military Academy in Belgium, 
 was published by O'Reilly Media in April 2019.
@@ -121,10 +113,16 @@ was published by O'Reilly Media in April 2019.
 published by O'Reilly Media in December 2019.
 A version of *Think Java* has been adapted as an [interactive online book by Trinket](https://books.trinket.io/thinkjava/).
 
+I continue to develop [*Think OS*](http://greenteapress.com/thinkos/) and 
+[*The Little Book of Semaphores*](https://greenteapress.com/wp/semaphores/), 
+which I used in the Spring 2019 offering of 
+[Software Systems](https://sites.google.com/site/softsys19/).
+
 Several of my books have been licensed by Codio and are in development as [interactive online books](https://www.codio.com/blog/introducing-codio-books).
 
 In 2019, new translations of my books have been published in Russian, 
-traditional Chinese, and simplified Chinese.
+traditional Chinese, and simplified Chinese.  Other books have been licensed for translation into
+Polish, Greek, and Korean.
 
 My course material, slides from my presentations, and material from my
 workshops are published on the web. And the supporting code for my
