@@ -34,7 +34,7 @@ In April I launched an online course with DataCamp,
 ["Exploratory Data Analysis in Python"](https://www.datacamp.com/instructors/allen-downey).
 At this point, almost as many people have taken this course online as I have taught, in person, in my academic career.
 Since July I have been a member of 
-[DataCamp's Instructor Advisor Board](https://www.datacamp.com/community/blog/instructor-advisory-board-member-announcement).
+[DataCamp's Instructor Advisory Board](https://www.datacamp.com/community/blog/instructor-advisory-board-member-announcement).
 
 In July I presented a talk at SciPy, ["Generational Changes in Support for Gun Laws: A Case Study in Computational Statistics"](https://www.youtube.com/watch?v=iI7lEMXHypw).
 and made a presentation for the teen track.
