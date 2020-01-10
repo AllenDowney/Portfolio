@@ -1,13 +1,9 @@
 # Portfolio
 Allen Downey at Olin College
 
-### Documents
+This is the site of my professional portfolio.
 
-* [Narrative, Fall 2016](https://github.com/AllenDowney/Portfolio/blob/master/narrative.md)
-
-* [Narrative, Spring 2018](https://github.com/AllenDowney/Portfolio/blob/master/narrative18.md)
-
-* [Narrative, Spring 2019](https://github.com/AllenDowney/Portfolio/blob/master/narrative19.md)
+* [My most recent annual review](https://allendowney.github.io/Portfolio/narrative20.html)
 
 * [CV](https://github.com/AllenDowney/Portfolio/raw/master/Allen_Downey_CV.pdf)
 
