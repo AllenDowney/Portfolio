@@ -10,69 +10,88 @@ Overview of my professional activities in 2020.
 
 ## Data Science
 
-I am continuing work on an undergraduate curriculum in Data Science for use at Olin and other schools.
+I am continuing work on an undergraduate curriculum in Data Science for
+use at Olin and other schools.
 
-In Spring 2020, I taught Data Science at Olin in parallel with the [first offering of DS10 at Harvard](http://datascience10.org/2020/).
-Both classes were based on a new online data science curriculum I developed in collaboration with faculty at Harvard,
+In Spring 2020, I taught [Data Science at Olin](https://sites.google.com/site/olinds20/)
+in parallel with the
+[first offering of DS10 at Harvard](http://datascience10.org/2020/).
+Both classes were based on a new online curriculum I developed in
+collaboration with faculty at Harvard,
 called ["Elements of Data Science"](https://allendowney.github.io/ElementsOfDataScience/).
 
-The curriulum also includes two case studies on:
+The curriculum includes two case studies on:
 
 * [Political alignment in the U.S.](https://allendowney.github.io/PoliticalAlignmentCaseStudy) and
 * [Recidivism and algorithmic fairness](https://allendowney.github.io/RecidivismCaseStudy/).
 
-In Fall 2020, I taught Data Science at Ashesi University in Ghana, 
+In Fall 2020, I taught Data Science at Ashesi University in Ghana,
 as part of their [Archer Cornfield Fellowship](https://www.ashesi.org/blog/announcement-fellowships-for-visiting-lecturers/).
 
 My online course, ["Exploratory Data Analysis in Python"](https://www.datacamp.com/instructors/allen-downey), is ongoing.
-At this point, more people have taken this course online than I have taught, in person, in my academic career.
+At this point, more people have taken this course online than I have taught,
+in person, in my academic career.
 
-From July 2020 to July 2021 I was a member of 
+From July 2019 to July 2020 I was a member of
 [DataCamp's Instructor Advisory Board](https://www.datacamp.com/community/blog/instructor-advisory-board-member-announcement).
 
 In 2020 I published several blog articles related to Data Science, including:
 
-* 
+* [Millennials are not getting married](https://www.allendowney.com/blog/2020/10/21/millennials-are-not-getting-married/)
 
-Related to my work on Bayesian statistics for undergrads, 
+* [Alice and Bob exchange data](https://www.allendowney.com/blog/2020/07/26/alice-and-bob-exchange-data/)
 
-* I have started work on a second edition of [*Think Bayes*](), which will be published by O'Reilly Media in 2021.
+* [Bayesian Hypothesis Testing](https://www.allendowney.com/blog/2020/04/13/bayesian-hypothesis-testing/)
 
-in February I presented 
-["The Bayesian Zig Zag: Developing Probabilistic Models Using Grid Methods and MCMC"]() for an online conference,
-[PyData 2020]().
-
-At SciPy in July, I led a half-day tutorial called 
-[Bayesian Statistics Made Easy](https://www.youtube.com/watch?v=-X0BiV9n_fQ).
-
-In Spring 2020 I will teach Data Science at Olin in parallel with DS10 at Harvard, with both classes using
-the new curriculum my collaborators and I developed.
+In November I led a half-day workshop,
+["Exploratory Data Analysis with Pandas and Matplotlib"](https://global.pydata.org/talks/363) for
+PyData Global 2020.
 
 
-## Computational Modeling
+## Bayesian Statistics
 
-In January, I collaborated with Jason Moore from UC Davis to lead a workshop, ["Eight Ways to Use Computation to Teach Everything Else"](https://engineeringunleashed.com/Events/NationalConference.aspx?EventGuid=c4a40a01-ae26-4f3a-99ef-2ec4039244f9#workshops), at the KEEN National Conference.
+As part of my work on Bayesian Statistics for undergraduates:
 
-In March I presented [a version of this workshop at Harvard University](https://linc.seas.harvard.edu/event/faculty-workshop-0).  I also taught this workshop in a longer format at 
-[Olin's Summer Institute 2019](http://www.olin.edu/collaborate/collaboratory/summer-institute/) in June.
+* I worked on a major revision of [*Think Bayes*](http://allendowney.github.io/ThinkBayes2).
+The second edition will be published by O'Reilly Media in 2021.
 
-During the summer I revised 
-[*Modeling and Simulation in Python*](https://greenteapress.com/wp/modsimpy/) and 
-[the accompanying software](https://github.com/AllenDowney/ModSimPy), which were used in the fall offering of 
-[Modeling and Simulation](https://canvas.instructure.com/courses/1675202/) at Olin. 
+* I started work on [*Bite Size Bayes*](https://allendowney.github.io/BiteSizeBayes),
+an introduction to Bayesian statistics designed to be incorporated into existing
+statistics classes, which I hope will make it easier to adopt than a completely
+new class.  The Python version is nearly done; I plan to translate it into R.
 
-In July I taught a half-day tutorial on
-[Complexity Science](https://www.youtube.com/watch?v=ccA6ghSW1Iw) at SciPy 2019.
+* As a classroom activity, I designed a dice game called
+[*The Shakes*](https://allendowney.github.io/TheShakes)
+that demonstrates Thompson sampling, a strategy for Bayesian medical testing.  
 
-In the fall semester I taught [Complexity Science](https://sites.google.com/site/complexityscience19/) at Olin.
-Some of the more successful projects are 
-[here](https://github.com/kdy304g/ComplexLizards-CA/blob/master/reports/final_report.md), 
-[here](https://github.com/jzerez/swarm_classification/blob/master/reports/Final_Report.md), and 
-[here](https://sportsracer48.github.io/2019-12-11-Cooperation/).
+In October I led a half-day workshop, ["Bayesian Statistics Made Simple"](https://odsc.com/speakers/bayesian-statistics-made-simple-2/) for the Open Data Science Conference (ODSC West) 2020,
+and presented ["The Bayesian Zig Zag"](https://discourse.pymc.io/t/the-bayesian-zig-zag-developing-and-testing-pymc-models-by-allen-downey/5978) for the first annual PyMC Conference.
 
-I am continuing to revise [*Physical Modeling in MATLAB*](https://greenteapress.com/wp/physical-modeling-in-matlab/), 
-to be published by [No Starch Press](https://nostarch.com) in 2020.
-I am working with MathWorks toward developing [online materials to support the book](https://www.mathworks.com/matlabcentral/fileexchange/72277-physicalmodelinginmatlab).
+
+## Computational Science
+
+I collaborated with [The Carpentries](https://carpentries.org/) to develop a
+new curriculum on computational tools for large astronomical datasets
+(supported by funding from the American
+Institute of Physics and the American Astronomical Society).
+We taught a pilot workshop based on this curriculum in November and debuted
+in January 2021 at the [annual meeting of the American Astronomical Society](https://my.aas.org/services/AAS_Member/Events/Event_Display.aspx?EventKey=WTR_21R).
+
+I have published the astronomy curriculum as an online book, [*Astronomical Data in Python*](https://allendowney.github.io/AstronomicalData/index.html).
+
+I am continuing work on
+
+* [*Physical Modeling in MATLAB*](https://greenteapress.com/wp/physical-modeling-in-matlab/),
+to be published by [No Starch Press](https://nostarch.com) in 2021, and
+
+* [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/).
+
+In March I revised *Think DSP* and released
+[version 1.1](https://www.allendowney.com/blog/2020/06/03/think-dsp-v1-1/).
+
+In September I presented a talk for the first DSP Online Conference:
+["In Search of The Fourth Wave"](https://www.dsponlineconference.com/session/In_Search_of_the_Fourth_Wave).
+
 
 ## Free books
 
@@ -81,33 +100,56 @@ copy, modify, and redistribute them. These licenses make possible
 many translations, adaptations, and derivative works, and lead to
 collaborations with co-authors all over the world.
 
-[*Think Julia*](http://shop.oreilly.com/product/0636920215707.do), a collaboration with Ben Lauwens at the Royal Military Academy in Belgium, 
-was published by O'Reilly Media in April 2019.
+In 2020, new translations of my books include:
 
-[*Think Java, 2nd edition*](http://shop.oreilly.com/product/0636920304364.do), a collaboration with Chris Mayfield at James Madison University, was
-published by O'Reilly Media in December 2019.
-A version of *Think Java* has been adapted as an [interactive online book by Trinket](https://books.trinket.io/thinkjava/).
+* *Think Java* in Polish (Helion).
 
-I continue to develop [*Think OS*](http://greenteapress.com/thinkos/) and 
-[*The Little Book of Semaphores*](https://greenteapress.com/wp/semaphores/), 
-which I used in the Spring 2019 offering of 
-[Software Systems](https://sites.google.com/site/softsys19/).
+* *Think Python* in Greek (Klidarithmos Publications) and
+[Spanish](https://github.com/jorgelespinoza/ThinkPython2-spanish)
 
-Several of my books have been licensed by Codio and are in development as [interactive online books](https://www.codio.com/blog/introducing-codio-books).
+* *Think Julia* in Korean (Hanbit Media),
+simplified Chinese (China Electric Power Press),
+traditional Chinese (GoTop Information Inc.),
+ [Spanish](https://introajulia.org/),
+ [Brazilian Portuguese](https://juliaintro.github.io/JuliaIntroBR.jl/index.html), and
+[Persian](http://www.naghoospress.ir/bookview.aspx?bookid=1487109).
 
-In 2019, new translations of my books have been published in Russian, 
-traditional Chinese, and simplified Chinese.  Other books have been licensed for translation into
-Polish, Greek, and Korean.
+* *Think DSP* in [Italian](https://github.com/BravoBaldo/ThinkDSP_Ita)
 
-My course material, slides from my presentations, and material from my
-workshops are published on the web. And the supporting code for my
-classes and books are on GitHub, where anyone can copy, modify, and make
-corrections and contributions.
+* *Think Complexity* in simplified Chinese (China Machine Press).
 
 Because my books are freely available, they are used in classes all over
-the world.  Since my last report, I have heard from people using them
-at 
-
+the world.  Since my last report, I have heard from people using them at
+Allegheny College,
+A.L. Brown High School,
+The Athenian School,
+Carleton College,
+The Citadel,
+Dallas College,
+De Anza College,
+Faith Academy,
+Harper College,
+Longwood University,
+Merced College,
+Miami Dade College,
+Minnesota State University,
+Miss Hall's School,
+Missouri Western State University,
+Pierce College,
+Prince George's Community College,
+Santa Monica College,
+Simon Fraser University,
+Temple University,
+Trident University,
+UCLA,
+UCSC,
+University of the People,
+University of Wisconsin,
+CETYS University (Mexico),
+Chang Gung University (Taiwan),
+Istanbul Data Science Academy (Turkey),
+National University of Engineering (Peru), and
+the University of Applied Sciences Upper Austria.
 
 In all of my projects, I “release early and release often”, getting
 feedback from readers and inviting collaboration. Following the
